@@ -6,7 +6,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Carpenter portfolio project for Sher Mohammad (9 years experience, specialized in wood work, modular kitchens, wardrobes, furniture, doors, windows, PVC panels). The project uses Mistral AI's vision model to analyze carpentry work photos and generate structured, portfolio-ready metadata for website integration.
 
-**Current Status**: System complete and tested. 64 of 64 images analyzed (100% completion). Ready for website integration.
+**Current Status**: System complete and tested. 64 of 64 images analyzed (100% completion). Website deployed and live.
+
+**Repositories**:
+- Analysis System (Parent): https://github.com/bhoot1234567890/sher-mohammad-carpentry-analysis
+- Portfolio Website (Child): https://github.com/bhoot1234567890/sher-mohammad-carpenter-portfolio
+
+**Live Website**: https://sher-mohammad-carpenter.pages.dev
 
 ## Tech Stack
 
@@ -14,10 +20,12 @@ Carpenter portfolio project for Sher Mohammad (9 years experience, specialized i
 - **Mistral AI Vision Model** (`mistral-small-latest`) for image analysis
 - **python-dotenv** for environment variable management
 - **tqdm** for progress bars (optional, in some scripts)
+- **React 18** + TypeScript + Vite (portfolio website)
+- **Cloudflare Pages** for deployment
 
 ## Development Setup
 
-1. Install dependencies:
+1. Install Python dependencies:
    ```bash
    pip install mistralai python-dotenv tqdm
    ```
@@ -26,87 +34,146 @@ Carpenter portfolio project for Sher Mohammad (9 years experience, specialized i
    - Create a `.env` file in the project root
    - Add: `MISTRAL_API_KEY=your_api_key_here`
 
+3. Website setup (in `portfolio-website/`):
+   ```bash
+   cd portfolio-website
+   npm install
+   ```
+
 ## Common Commands
 
-### Test the system (validates API and processes one image):
+### Python Analysis Scripts
+
+#### Test the system (validates API and processes one image):
 ```bash
 cd scripts
 python test_single_image.py
 ```
 
-### Continue batch analysis (processes remaining images):
+#### Continue batch analysis (processes remaining images):
 ```bash
 cd scripts
 python continue_image_analysis.py
 ```
 
-### Get simple descriptions only (faster, less detailed):
+#### Get simple descriptions only (faster, less detailed):
 ```bash
 cd scripts
 python get_image_descriptions.py
 ```
 
-### Quick analysis with basic metadata:
+#### Quick analysis with basic metadata:
 ```bash
 cd scripts
 python quick_image_analysis.py
 ```
 
-### Full analysis from scratch:
+#### Full analysis from scratch:
 ```bash
 cd scripts
 python analyze_carpentry_images.py
 ```
 
-### Extract JSON schema from analysis results:
+#### Extract JSON schema from analysis results:
 ```bash
 cd scripts
 python get_schema.py
 ```
 
-### Split large analysis JSON into individual files:
+#### Split large analysis JSON into individual files:
 ```bash
 cd scripts
 python divide_analysis_results.py
 ```
 
+### Website Commands
+
+#### Development server:
+```bash
+cd portfolio-website
+npm run dev
+```
+
+#### Build for production:
+```bash
+cd portfolio-website
+npm run build
+```
+
+#### Deploy to Cloudflare Pages:
+```bash
+cd portfolio-website
+npm run build
+npx wrangler pages deploy dist
+```
+
 ## Project Structure
 
 ```
-carpenter portfolio/
-├── scripts/                                    # Python analysis scripts
-│   ├── continue_image_analysis.py             # Primary: Resume & process remaining
-│   ├── analyze_carpentry_images.py           # Full analysis from scratch with progress bar
-│   ├── get_image_descriptions.py             # Simple descriptions only
-│   ├── quick_image_analysis.py                # Fast analysis with basic metadata
-│   ├── test_single_image.py                   # System validation
-│   ├── divide_analysis_results.py            # Split JSON into files
-│   ├── get_schema.py                         # Extract JSON schema
-│   └── mistral vision model example.py       # Original basic example
+carpenter portfolio/                                   # Parent repository (Analysis System)
+├── scripts/                                          # Python analysis scripts
+│   ├── continue_image_analysis.py                   # Primary: Resume & process remaining
+│   ├── analyze_carpentry_images.py                 # Full analysis from scratch with progress bar
+│   ├── get_image_descriptions.py                   # Simple descriptions only
+│   ├── quick_image_analysis.py                     # Fast analysis with basic metadata
+│   ├── test_single_image.py                        # System validation
+│   ├── divide_analysis_results.py                  # Split JSON into files
+│   ├── get_schema.py                               # Extract JSON schema
+│   └── mistral vision model example.py             # Original basic example
 │
 ├── data/
-│   ├── raw/                             # Original analysis results
-│   │   ├── image_analysis_results.json   # Main results (64/64 analyzed)
-│   │   ├── image_analysis_schema.json   # Generated schema
-│   │   ├── image_descriptions.json      # Basic descriptions
-│   │   └── sample_image_analysis.json   # Sample analysis
+│   ├── raw/                                        # Original analysis results
+│   │   ├── image_analysis_results.json            # Main results (64/64 analyzed)
+│   │   ├── image_analysis_schema.json            # Generated schema
+│   │   ├── image_descriptions.json               # Basic descriptions
+│   │   └── sample_image_analysis.json            # Sample analysis
 │   └── results/
-│       └── divided_results/             # Individual image files
+│       └── divided_results/                       # Individual image files
 │
 ├── assets/
-│   ├── photos/                         # 64 WhatsApp-exported carpentry images
-│   └── face photo for website.png       # Profile photo
+│   ├── photos/                                    # 64 WhatsApp-exported carpentry images
+│   └── face photo for website.png                  # Profile photo
 │
-├── docs/                              # Documentation
+├── docs/                                          # Documentation
 │   ├── ANALYSIS_SUMMARY.md
 │   ├── IMAGE_ANALYSIS_README.md
 │   ├── FILE_INDEX.md
 │   └── image_analysis_prompt.md
 │
-├── .env                               # Mistral API key (not in git)
-├── .gitignore                        # Excludes sensitive files
-└── README.md                         # Project overview
+├── portfolio-website/                             # Child repository (Portfolio Website)
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── ui/                               # Shared UI components
+│   │   │   │   ├── Navigation.tsx                # Sticky header nav
+│   │   │   │   ├── Footer.tsx                    # Site footer
+│   │   │   │   ├── SectionTitle.tsx              # Reusable section headers
+│   │   │   │   ├── ScrollReveal.tsx              # Scroll animation wrapper
+│   │   │   │   ├── LazyImage.tsx                 # Lazy-loaded image component
+│   │   │   │   └── ImageModal.tsx                # Image detail popup modal
+│   │   │   └── sections/                         # Page sections
+│   │   │       ├── Hero.tsx                      # Landing hero section
+│   │   │       ├── About.tsx                     # About/bio section
+│   │   │       ├── Services.tsx                  # Services offered
+│   │   │       ├── Gallery.tsx                   # Image gallery with filters
+│   │   │       ├── Testimonials.tsx              # Client reviews
+│   │   │       ├── Process.tsx                   # Work process timeline
+│   │   │       └── Contact.tsx                   # Contact info & WhatsApp
+│   │   ├── data/
+│   │   │   └── portfolioData.ts                  # Type definitions
+│   │   ├── App.tsx                               # Main app component
+│   │   └── index.css                            # Global styles + CSS variables
+│   ├── public/
+│   │   ├── images/                              # Portfolio images (65 files)
+│   │   └── image_analysis_results.json          # AI analysis data
+│   ├── package.json
+│   └── CLAUDE.md                                # Website-specific documentation
+│
+├── .env                                          # Mistral API key (not in git)
+├── .gitignore                                   # Excludes sensitive files + portfolio-website/
+└── README.md                                    # Project overview
 ```
+
+**Important**: `portfolio-website/` is a separate git repository with its own tracking. It is excluded from the parent repository via `.gitignore`.
 
 ## Architecture Patterns
 
@@ -225,9 +292,72 @@ Mistral API has rate limits. Scripts implement delays:
 - `analyze_carpentry_images.py`: 2 seconds between images
 - Adjust these in the scripts if encountering rate limit errors
 
+### Git Repositories
+
+**Parent Repository** (Analysis System):
+- Location: `/Users/chaitanyamalhotra/Desktop/scratch projects/carpenter portfolio/`
+- GitHub: https://github.com/bhoot1234567890/sher-mohammad-carpentry-analysis
+- Tracks: Python scripts, analysis data, documentation, original photos
+- Does NOT track: `portfolio-website/` (separate repo), `.env`
+
+**Child Repository** (Portfolio Website):
+- Location: `portfolio-website/` subdirectory
+- GitHub: https://github.com/bhoot1234567890/sher-mohammad-carpenter-portfolio
+- Live Site: https://sher-mohammad-carpenter.pages.dev
+- Tracks: React source, built images, website-specific data
+- Independent git repository with own `.git` folder
+
+## Workflow for Adding New Images
+
+1. **Add new photos** to `assets/photos/` in parent directory
+2. **Run AI analysis** to generate metadata:
+   ```bash
+   cd scripts
+   python continue_image_analysis.py
+   ```
+3. **Copy new images** to website:
+   ```bash
+   cp "assets/photos/new-image.jpg" "portfolio-website/public/images/"
+   ```
+4. **Update website data**:
+   - Copy `data/raw/image_analysis_results.json` to `portfolio-website/public/`
+5. **Rebuild and deploy**:
+   ```bash
+   cd portfolio-website
+   npm run build
+   npx wrangler pages deploy dist
+   ```
+
+## Deployment
+
+### Website Deployment
+The portfolio website is deployed on Cloudflare Pages:
+- **URL**: https://sher-mohammad-carpenter.pages.dev
+- **Build command**: `npm run build`
+- **Output directory**: `dist/`
+- **Deployment tool**: Wrangler CLI
+
+### Git Workflow
+```bash
+# Parent repository (analysis system)
+cd "/Users/chaitanyamalhotra/Desktop/scratch projects/carpenter portfolio"
+git add .
+git commit -m "Update analysis data"
+git push
+
+# Child repository (website)
+cd portfolio-website
+git add .
+git commit -m "Update website content"
+git push
+npm run build
+npx wrangler pages deploy dist
+```
+
 ## Notes
 
-- Not a git repository (no version control configured)
-- No build system, tests, or linting configured
-- Resume data was extracted from PDF in a previous process (multiple format variants exist)
-- The `data/raw/image_analysis_results.json` file is the single source of truth for analysis progress - scripts check it to skip already-processed images
+- Both repositories are properly initialized and pushed to GitHub
+- The website is live and fully functional with all 64 images
+- Image modal with detailed analysis information is implemented
+- Rate limiting is handled gracefully in analysis scripts
+- The `data/raw/image_analysis_results.json` file is the single source of truth for analysis progress

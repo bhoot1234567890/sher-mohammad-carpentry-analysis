@@ -1,0 +1,4115 @@
+{
+  "metadata": {
+    "project": "Carpenter Portfolio Image Analysis",
+    "created_by": "Mistral AI Vision Analysis",
+    "date_created": "2024-01-07",
+    "total_images": 64,
+    "analysis_status": "complete",
+    "description": "Comprehensive analysis of carpentry portfolio images for website integration"
+  },
+  "analysis_prompt": {
+    "objective": "Analyze carpentry portfolio images for website display",
+    "criteria": {
+      "image_identification": [
+        "image_type",
+        "primary_subject",
+        "completion_stage"
+      ],
+      "technical_details": [
+        "materials",
+        "joinery_techniques",
+        "construction_methods",
+        "visible_tools"
+      ],
+      "craftsmanship_quality": [
+        "precision",
+        "surface_quality",
+        "attention_to_detail",
+        "structural_integrity"
+      ],
+      "design_elements": [
+        "style",
+        "functional_features",
+        "aesthetic_features",
+        "color_finish"
+      ],
+      "project_context": [
+        "project_type",
+        "scale",
+        "intended_use",
+        "customization_elements"
+      ],
+      "aesthetic_evaluation": [
+        "visual_appeal",
+        "craftsmanship_showcase",
+        "unique_selling_points",
+        "potential_client_appeal"
+      ],
+      "technical_challenges": [
+        "complex_joinery",
+        "material_challenges",
+        "precision_requirements",
+        "design_complexity"
+      ],
+      "portfolio_presentation": [
+        "best_use",
+        "accompanying_text",
+        "focus_areas",
+        "quality_rating"
+      ]
+    }
+  },
+  "images": [
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.51.22.jpeg",
+      "timestamp": "2024-01-07T12:00:00Z",
+      "file_size": 241434,
+      "analysis": {
+        "image_type": "Full project view",
+        "primary_subject": "Rustic interior space with handcrafted wicker and rattan decorations",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "natural rattan",
+            "wicker",
+            "natural fibers",
+            "wooden structural elements"
+          ],
+          "joinery_techniques": [
+            "traditional weaving",
+            "interlacing",
+            "basketry techniques"
+          ],
+          "construction_methods": [
+            "hand-woven construction",
+            "modular assembly"
+          ],
+          "visible_tools": []
+        },
+        "craftsmanship_quality": {
+          "precision": "High - intricate circular designs show excellent symmetry and alignment",
+          "surface_quality": "High - smooth, evenly woven surfaces with consistent tension",
+          "attention_to_detail": "Exceptional - complex geometric patterns and decorative elements",
+          "structural_integrity": "High - robust weaving patterns suggest durability"
+        },
+        "design_elements": {
+          "style": "Rustic/Traditional",
+          "functional_features": [
+            "ceiling fans",
+            "wall decorations",
+            "hanging ornaments"
+          ],
+          "aesthetic_features": [
+            "intricate circular designs",
+            "geometric patterns",
+            "organic textures"
+          ],
+          "color_finish": "Natural fiber colors with earthy tones, untreated natural finish"
+        },
+        "project_context": {
+          "project_type": "Interior architectural elements",
+          "scale": "Large",
+          "intended_use": "Residential/Commercial decorative installation",
+          "customization_elements": [
+            "custom woven patterns",
+            "size adaptation to space"
+          ]
+        },
+        "aesthetic_evaluation": {
+          "visual_appeal": "High - harmonious blend of organic materials with intricate craftsmanship",
+          "craftsmanship_showcase": [
+            "ceiling fans",
+            "circular wall designs",
+            "hanging decorations"
+          ],
+          "unique_selling_points": [
+            "handmade artistry",
+            "traditional techniques",
+            "custom design capability"
+          ],
+          "potential_client_appeal": "Clients seeking authentic, handcrafted interior elements with rustic charm"
+        },
+        "technical_challenges": [
+          "Creating large-scale woven elements with consistent tension",
+          "Maintaining symmetry in complex geometric patterns",
+          "Ensuring structural integrity of hanging elements"
+        ],
+        "portfolio_presentation": {
+          "best_use": "Hero image showcasing craftsmanship and design capability",
+          "accompanying_text": "Exquisite handcrafted rattan interior featuring intricate woven designs, demonstrating traditional techniques and exceptional artistry for custom residential and commercial spaces.",
+          "focus_areas": [
+            "ceiling fans",
+            "circular wall patterns",
+            "overall space harmony"
+          ],
+          "quality_rating": 9
+        }
+      },
+      "keywords": [
+        "rattan",
+        "wicker",
+        "handcrafted",
+        "traditional weaving",
+        "interior design",
+        "rustic decor",
+        "custom craftsmanship"
+      ],
+      "recommended_usage": "Feature as primary portfolio piece highlighting traditional craftsmanship and large-scale custom interior projects"
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.51.27.jpeg",
+      "timestamp": "2024-01-07T12:05:00Z",
+      "file_size": 237242,
+      "analysis": {
+        "image_type": "Close-up detail",
+        "primary_subject": "Handcrafted wooden cabinet with intricate carving",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "hardwood (likely teak or mahogany)",
+            "wood stain",
+            "protective finish"
+          ],
+          "joinery_techniques": [
+            "mortise and tenon",
+            "dovetail joints",
+            "carved details"
+          ],
+          "construction_methods": [
+            "solid wood construction",
+            "hand carving",
+            "multi-panel design"
+          ],
+          "visible_tools": []
+        },
+        "craftsmanship_quality": {
+          "precision": "Exceptional - tight joints and symmetrical carving patterns",
+          "surface_quality": "High - smooth finish with visible wood grain enhancement",
+          "attention_to_detail": "Outstanding - intricate floral carving with consistent depth",
+          "structural_integrity": "High - robust joinery suggests long-term durability"
+        },
+        "design_elements": {
+          "style": "Traditional/Classic",
+          "functional_features": [
+            "storage cabinet",
+            "decorative panels",
+            "hinged doors"
+          ],
+          "aesthetic_features": [
+            "intricate floral carving",
+            "geometric border patterns",
+            "rich wood grain"
+          ],
+          "color_finish": "Dark wood stain with glossy protective finish"
+        },
+        "project_context": {
+          "project_type": "Custom furniture",
+          "scale": "Medium",
+          "intended_use": "Residential storage with decorative appeal",
+          "customization_elements": [
+            "custom carving patterns",
+            "size adaptation",
+            "finish selection"
+          ]
+        },
+        "aesthetic_evaluation": {
+          "visual_appeal": "Very High - elegant combination of functionality and artistic carving",
+          "craftsmanship_showcase": [
+            "carved floral patterns",
+            "precision joinery",
+            "finish quality"
+          ],
+          "unique_selling_points": [
+            "hand-carved details",
+            "heirloom quality",
+            "custom design capability"
+          ],
+          "potential_client_appeal": "Discerning clients seeking high-end custom furniture with artistic value"
+        },
+        "technical_challenges": [
+          "Executing intricate carving with consistent depth and symmetry",
+          "Maintaining tight tolerances in complex joinery",
+          "Achieving uniform finish across carved surfaces"
+        ],
+        "portfolio_presentation": {
+          "best_use": "Detail showcase highlighting carving expertise and fine craftsmanship",
+          "accompanying_text": "Masterfully hand-carved wooden cabinet featuring intricate floral patterns and traditional joinery, showcasing exceptional craftsmanship and attention to detail.",
+          "focus_areas": [
+            "carved floral details",
+            "joinery precision",
+            "finish quality"
+          ],
+          "quality_rating": 10
+        }
+      },
+      "keywords": [
+        "wood carving",
+        "custom cabinet",
+        "traditional furniture",
+        "handcrafted",
+        "fine woodworking",
+        "heirloom quality",
+        "artistic craftsmanship"
+      ],
+      "recommended_usage": "Feature in craftsmanship detail section to highlight carving skills and fine furniture making"
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.51.32.jpeg",
+      "timestamp": "2026-01-07T05:26:41.312474",
+      "file_size": 180497,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.51.32.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A completed rustic-style entrance with woven light fixtures and wooden elements",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Wicker or rattan",
+            "Wood",
+            "Glass",
+            "Metal"
+          ],
+          "joinery_techniques": [
+            "Mortise and Tenon",
+            "Dowel Joints"
+          ],
+          "construction_methods": [
+            "Handwoven",
+            "Frame Assembly",
+            "Glazing"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The alignment of the woven light fixtures and the door frame is precise, indicating careful assembly.",
+          "surface_quality": "High - The surfaces of the wooden elements and the door appear smooth and well-finished.",
+          "attention_to_detail": "High - The intricate weaving of the light fixtures and the clean lines of the door frame show meticulous craftsmanship."
+        },
+        "design_elements": {
+          "style": "Rustic",
+          "functional_features": [
+            "Lighting",
+            "Entrance Door"
+          ],
+          "aesthetic_features": [
+            "Woven light fixtures",
+            "Wooden textures",
+            "Glass panes"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This rustic-style entrance showcases a blend of natural materials and intricate craftsmanship. The woven light fixtures add a unique aesthetic, while the sturdy wooden door ensures functionality and durability.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Rustic Design",
+          "Woven Light Fixtures",
+          "Wooden Entrance",
+          "Handcrafted",
+          "Interior Design"
+        ],
+        "timestamp": "2026-01-07T05:26:41.312474",
+        "file_size": 180497
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.51.37.jpeg",
+      "timestamp": "2026-01-07T05:26:52.061141",
+      "file_size": 338093,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.51.37.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A collection of woven rattan or bamboo pendant lamps with intricate patterns and varying sizes, some illuminated.",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Rattan or bamboo",
+            "Light bulbs",
+            "Wiring"
+          ],
+          "joinery_techniques": [
+            "Woven construction",
+            "Knot tying"
+          ],
+          "construction_methods": [
+            "Hand weaving",
+            "Assembly of individual components"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The weaving is tight and consistent, showing careful and meticulous work.",
+          "surface_quality": "High - The surfaces are smooth and evenly finished, with no visible rough edges.",
+          "attention_to_detail": "High - The intricate patterns and even spacing between the woven elements demonstrate a high level of attention to detail."
+        },
+        "design_elements": {
+          "style": "Rustic/Traditional",
+          "functional_features": [
+            "Lighting",
+            "Decorative ceiling installation"
+          ],
+          "aesthetic_features": [
+            "Intricate woven patterns",
+            "Varying sizes for visual interest",
+            "Warm lighting effect"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This stunning collection of woven rattan or bamboo pendant lamps showcases the beauty of traditional craftsmanship. Each piece is meticulously handwoven to create intricate patterns, providing both functional lighting and an elegant decorative element for any space.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Rattan lamps",
+          "Bamboo pendant lights",
+          "Handwoven lighting",
+          "Traditional craftsmanship",
+          "Decorative ceiling installation"
+        ],
+        "timestamp": "2026-01-07T05:26:52.061141",
+        "file_size": 338093
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.51.40.jpeg",
+      "timestamp": "2026-01-07T05:27:02.383501",
+      "file_size": 217617,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.51.40.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A completed outdoor railing with intricate wooden and metal design elements",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Bamboo",
+            "Metal",
+            "Concrete"
+          ],
+          "joinery_techniques": [
+            "Mortise and Tenon",
+            "Nailing"
+          ],
+          "construction_methods": [
+            "Modular Assembly",
+            "Welding"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The alignment of the bamboo slats and metal railings is consistent and precise, indicating careful measurement and installation.",
+          "surface_quality": "High - The bamboo slats are smooth and well-finished, and the metal components are clean and free of blemishes.",
+          "attention_to_detail": "High - The intricate geometric patterns on the metal railings and the even spacing of the bamboo slats demonstrate meticulous craftsmanship."
+        },
+        "design_elements": {
+          "style": "Traditional",
+          "functional_features": [
+            "Safety railing",
+            "Outdoor durability"
+          ],
+          "aesthetic_features": [
+            "Geometric metal patterns",
+            "Bamboo slat privacy screen"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This outdoor railing project showcases a blend of traditional craftsmanship and modern design. The intricate metalwork and smooth bamboo slats create a visually appealing and functional barrier, perfect for enhancing the aesthetic and safety of outdoor spaces.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Outdoor railing",
+          "Bamboo construction",
+          "Metalwork",
+          "Traditional design",
+          "Craftsmanship"
+        ],
+        "timestamp": "2026-01-07T05:27:02.383501",
+        "file_size": 217617
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.51.45.jpeg",
+      "timestamp": "2026-01-07T05:27:24.045650",
+      "file_size": 220847,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.51.45.jpeg",
+        "image_type": "Close-up detail",
+        "primary_subject": "Bamboo wall construction with a small window and a wooden handrail",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Bamboo",
+            "Wood"
+          ],
+          "joinery_techniques": [
+            "Lap joint",
+            "Butt joint"
+          ],
+          "construction_methods": [
+            "Vertical paneling",
+            "Handrail installation"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The bamboo strips are evenly spaced and aligned, indicating careful measurement and cutting.",
+          "surface_quality": "Medium - The bamboo shows natural imperfections and weathering, which is typical for natural materials.",
+          "attention_to_detail": "High - The alignment of the bamboo strips and the neatness of the window and handrail installation show meticulous work."
+        },
+        "design_elements": {
+          "style": "Rustic",
+          "functional_features": [
+            "Bamboo wall cladding",
+            "Window",
+            "Handrail"
+          ],
+          "aesthetic_features": [
+            "Natural texture of bamboo",
+            "Uniform vertical lines",
+            "Simple and clean design"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Detail",
+          "accompanying_text": "This image showcases a beautifully crafted bamboo wall with a small window and a wooden handrail. The natural texture and vertical alignment of the bamboo strips create a rustic yet elegant aesthetic, highlighting the craftsmanship involved in the installation.",
+          "quality_rating": 8
+        },
+        "keywords": [
+          "Bamboo construction",
+          "Rustic design",
+          "Handrail installation",
+          "Natural materials",
+          "Wall cladding"
+        ],
+        "timestamp": "2026-01-07T05:27:24.045650",
+        "file_size": 220847
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.51.50.jpeg",
+      "timestamp": "2026-01-07T05:27:34.353536",
+      "file_size": 209916,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.51.50.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A completed outdoor pergola structure with thatched roofing, decorative lighting, and potted plants",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "wood",
+            "thatched palm leaves",
+            "metal",
+            "rope"
+          ],
+          "joinery_techniques": [
+            "mortise and tenon",
+            "dowel joints"
+          ],
+          "construction_methods": [
+            "frame assembly",
+            "thatched roofing installation",
+            "light fixture mounting"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The structure appears well-aligned with clean cuts and precise joinery",
+          "surface_quality": "High - Smooth surfaces on the wooden components and neatly arranged thatch",
+          "attention_to_detail": "High - Intricate design elements such as the decorative lighting and plant integration"
+        },
+        "design_elements": {
+          "style": "Rustic",
+          "functional_features": [
+            "outdoor seating area",
+            "lighting fixtures",
+            "plant integration"
+          ],
+          "aesthetic_features": [
+            "thatched roofing",
+            "decorative lighting",
+            "potted plants"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This rustic outdoor pergola showcases a blend of traditional and functional design elements. The structure features a thatched roof, decorative lighting, and integrated potted plants, creating a cozy and inviting outdoor space.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "outdoor pergola",
+          "rustic design",
+          "thatched roofing",
+          "decorative lighting",
+          "woodworking",
+          "craftsmanship",
+          "outdoor seating"
+        ],
+        "timestamp": "2026-01-07T05:27:34.353536",
+        "file_size": 209916
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.51.51.jpeg",
+      "timestamp": "2026-01-07T05:27:44.592393",
+      "file_size": 220161,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.51.51.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A completed outdoor pergola structure with a thatched roof and decorative elements",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "wood",
+            "bamboo",
+            "metal",
+            "concrete tiles"
+          ],
+          "joinery_techniques": [
+            "mortise and tenon",
+            "dowel joints"
+          ],
+          "construction_methods": [
+            "frame construction",
+            "thatched roofing"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The structure appears to be well-aligned with clean cuts and precise joinery",
+          "surface_quality": "High - Smooth surfaces with no visible rough edges or splinters",
+          "attention_to_detail": "High - The decorative elements and overall finish show meticulous attention to detail"
+        },
+        "design_elements": {
+          "style": "Rustic",
+          "functional_features": [
+            "outdoor seating area",
+            "shade provision"
+          ],
+          "aesthetic_features": [
+            "thatched roofing",
+            "decorative plants",
+            "patterned flooring"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This rustic pergola showcases a blend of traditional and functional design elements, perfect for creating a cozy outdoor space. The structure features a thatched roof, bamboo supports, and patterned flooring, providing both aesthetic appeal and practical shade.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "pergola",
+          "outdoor structure",
+          "rustic design",
+          "thatched roof",
+          "bamboo construction"
+        ],
+        "timestamp": "2026-01-07T05:27:44.592393",
+        "file_size": 220161
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.51.56.jpeg",
+      "timestamp": "2026-01-07T05:28:05.380156",
+      "file_size": 204411,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.51.56.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "Interior space featuring handcrafted wicker and rattan decor elements, including ceiling installations and hanging lampshades",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "wicker",
+            "rattan",
+            "wood",
+            "burlap fabric"
+          ],
+          "joinery_techniques": [
+            "weaving",
+            "knotting",
+            "braiding"
+          ],
+          "construction_methods": [
+            "hand-weaving",
+            "suspension mounting"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The weaving and knotting are meticulously done, showing consistent patterns and tight joins.",
+          "surface_quality": "High - The surfaces of the wicker and rattan elements are smooth and well-finished, with no visible rough edges.",
+          "attention_to_detail": "High - The intricate designs of the hanging lampshades and ceiling installations demonstrate a high level of craftsmanship and attention to detail."
+        },
+        "design_elements": {
+          "style": "Rustic",
+          "functional_features": [
+            "lighting",
+            "space division"
+          ],
+          "aesthetic_features": [
+            "natural textures",
+            "organic shapes",
+            "earthy tones"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This image showcases a beautifully crafted interior space featuring hand-woven wicker and rattan decor. The intricate ceiling installations and hanging lampshades add a rustic charm, creating a cozy and inviting atmosphere. The use of natural materials and earthy tones highlights the craftsmanship and attention to detail.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "wicker",
+          "rattan",
+          "interior decor",
+          "handcrafted",
+          "rustic design",
+          "natural materials",
+          "ceiling installation",
+          "hanging lampshades"
+        ],
+        "timestamp": "2026-01-07T05:28:05.380156",
+        "file_size": 204411
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.00.jpeg",
+      "timestamp": "2026-01-07T05:28:15.106043",
+      "file_size": 220307,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.52.00.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "Interior space featuring custom wooden furniture, including chairs, tables, and railings, with a rustic and natural design aesthetic",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Wood",
+            "Fabric",
+            "Glass",
+            "Metal"
+          ],
+          "joinery_techniques": [
+            "Mortise and Tenon",
+            "Dovetail",
+            "Pocket Hole"
+          ],
+          "construction_methods": [
+            "Frame and Panel",
+            "Box Construction",
+            "Laminating"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The joinery and assembly of the furniture pieces are precise, with clean lines and tight joints.",
+          "surface_quality": "High - The surfaces are smooth and well-finished, with no visible rough edges or imperfections.",
+          "attention_to_detail": "High - The intricate patterns on the floor tiles and the careful placement of the furniture and decor show a high level of attention to detail."
+        },
+        "design_elements": {
+          "style": "Rustic",
+          "functional_features": [
+            "Comfortable seating",
+            "Sturdy railings",
+            "Practical table arrangements"
+          ],
+          "aesthetic_features": [
+            "Natural wood finishes",
+            "Handcrafted decor",
+            "Balanced color palette"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This interior space showcases custom wooden furniture with a rustic charm. The attention to detail in the craftsmanship and the harmonious blend of natural materials create a warm and inviting atmosphere.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Rustic interior",
+          "Custom furniture",
+          "Woodworking",
+          "Interior design",
+          "Handcrafted decor"
+        ],
+        "timestamp": "2026-01-07T05:28:15.106043",
+        "file_size": 220307
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.04.jpeg",
+      "timestamp": "2026-01-07T05:28:25.718747",
+      "file_size": 193765,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.52.04.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A completed outdoor terrace with a bamboo fence and potted plants",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Bamboo",
+            "Metal",
+            "Ceramic tiles",
+            "Concrete"
+          ],
+          "joinery_techniques": [
+            "Mortise and Tenon",
+            "Nailing"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Surface tiling"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The bamboo slats are evenly spaced and aligned, indicating careful measurement and installation.",
+          "surface_quality": "High - The ceramic tiles are uniformly laid with minimal grout lines, and the bamboo fence is smooth and well-finished.",
+          "attention_to_detail": "High - The decorative metal railings and lamp posts are intricately designed and evenly spaced, enhancing the overall aesthetic."
+        },
+        "design_elements": {
+          "style": "Rustic",
+          "functional_features": [
+            "Privacy fence",
+            "Outdoor lighting",
+            "Potted plants for greenery"
+          ],
+          "aesthetic_features": [
+            "Decorative metal railings",
+            "Patterned ceramic tiles",
+            "Symmetrical plant arrangement"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This outdoor terrace project showcases a harmonious blend of natural bamboo fencing and intricate metalwork, creating a serene and private outdoor space. The patterned ceramic tiles add a touch of elegance, making it a perfect spot for relaxation.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Outdoor terrace",
+          "Bamboo fence",
+          "Metal railings",
+          "Ceramic tiles",
+          "Rustic design",
+          "Privacy fence",
+          "Outdoor lighting"
+        ],
+        "timestamp": "2026-01-07T05:28:25.718747",
+        "file_size": 193765
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.07.jpeg",
+      "timestamp": "2026-01-07T05:28:47.320122",
+      "file_size": 218808,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.52.07.jpeg",
+        "image_type": "Close-up detail",
+        "primary_subject": "Stack of bamboo poles with visible cuts and ends",
+        "completion_stage": "Rough cut",
+        "technical_details": {
+          "materials": [
+            "Bamboo"
+          ],
+          "joinery_techniques": [
+            "None visible"
+          ],
+          "construction_methods": [
+            "Cutting"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "Medium - The cuts on the bamboo poles are relatively straight but show some irregularities and unevenness.",
+          "surface_quality": "Medium - The bamboo surfaces are natural and unpolished, with visible texture and some rough edges.",
+          "attention_to_detail": "Low - The focus seems to be on the raw material rather than refined finishing details."
+        },
+        "design_elements": {
+          "style": "Rustic",
+          "functional_features": [
+            "Natural material",
+            "Structural potential"
+          ],
+          "aesthetic_features": [
+            "Natural texture",
+            "Organic appearance"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Process",
+          "accompanying_text": "This image showcases a stack of bamboo poles, highlighting the raw material stage in carpentry. The natural texture and rough cuts provide insight into the initial steps of working with bamboo.",
+          "quality_rating": 6
+        },
+        "keywords": [
+          "bamboo",
+          "rough cut",
+          "natural material",
+          "rustic",
+          "carpentry"
+        ],
+        "timestamp": "2026-01-07T05:28:47.320122",
+        "file_size": 218808
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.11.jpeg",
+      "timestamp": "2026-01-07T05:28:57.563144",
+      "file_size": 232151,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.52.11.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A completed outdoor pergola structure with thatched roofing, decorative lighting, and potted plants",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Bamboo",
+            "Thatch",
+            "Metal",
+            "Ceramic tiles",
+            "Plants"
+          ],
+          "joinery_techniques": [
+            "Lashing",
+            "Bracing"
+          ],
+          "construction_methods": [
+            "Pergola framing",
+            "Thatch roofing",
+            "Potted plant arrangement"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The structure appears well-aligned and evenly spaced, with consistent joinery and a balanced overall appearance",
+          "surface_quality": "High - The surfaces of the bamboo and thatch are smooth and well-finished, with no visible rough edges or imperfections",
+          "attention_to_detail": "High - The decorative lighting fixtures and the arrangement of potted plants show careful attention to aesthetic details"
+        },
+        "design_elements": {
+          "style": "Rustic",
+          "functional_features": [
+            "Outdoor seating area",
+            "Shade provision",
+            "Decorative lighting"
+          ],
+          "aesthetic_features": [
+            "Thatch roofing",
+            "Bamboo construction",
+            "Potted plants",
+            "Decorative lighting"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This rustic outdoor pergola showcases a harmonious blend of natural materials and functional design. The thatched roofing provides shade, while the bamboo structure and decorative lighting create a serene and inviting atmosphere, perfect for outdoor relaxation.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Pergola",
+          "Bamboo construction",
+          "Thatch roofing",
+          "Outdoor design",
+          "Rustic style",
+          "Decorative lighting"
+        ],
+        "timestamp": "2026-01-07T05:28:57.563144",
+        "file_size": 232151
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.14.jpeg",
+      "timestamp": "2026-01-07T05:29:07.909072",
+      "file_size": 118160,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.52.14.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "Interior space featuring custom furniture, including tables, chairs, and decorative elements, with a focus on natural materials and rustic design",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "wood",
+            "fabric",
+            "metal",
+            "natural fibers"
+          ],
+          "joinery_techniques": [
+            "mortise and tenon",
+            "dowel joints",
+            "screw fasteners"
+          ],
+          "construction_methods": [
+            "frame and panel",
+            "lamination",
+            "upholstery"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The joinery and assembly of the furniture pieces show clean, tight joints and precise alignment.",
+          "surface_quality": "High - The surfaces of the wooden elements are smooth, with a consistent finish and minimal visible imperfections.",
+          "attention_to_detail": "High - The intricate weaving of the hanging light fixtures and the careful upholstery of the chairs demonstrate a high level of craftsmanship."
+        },
+        "design_elements": {
+          "style": "Rustic",
+          "functional_features": [
+            "modular seating",
+            "custom table designs",
+            "natural lighting integration"
+          ],
+          "aesthetic_features": [
+            "natural textures",
+            "earthy color palette",
+            "handcrafted decorative elements"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This interior project showcases a harmonious blend of rustic charm and functional design, featuring custom-built furniture crafted from natural materials. The space emphasizes comfort and aesthetic appeal, with handcrafted details that highlight the artistry involved.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "rustic design",
+          "custom furniture",
+          "natural materials",
+          "interior carpentry",
+          "handcrafted decor"
+        ],
+        "timestamp": "2026-01-07T05:29:07.909072",
+        "file_size": 118160
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.17.jpeg",
+      "timestamp": "2026-01-07T05:29:27.852389",
+      "file_size": 208626,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.52.17.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A wooden staircase with bamboo wall paneling and white metal railings",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Wood",
+            "Bamboo",
+            "Metal"
+          ],
+          "joinery_techniques": [
+            "Butt joints",
+            "Nailing"
+          ],
+          "construction_methods": [
+            "Frame construction",
+            "Panel installation"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "Medium - The alignment of the bamboo panels is mostly straight, though some gaps are visible.",
+          "surface_quality": "Medium - The wood of the staircase appears smooth but shows some minor imperfections.",
+          "attention_to_detail": "Medium - The railings are well-aligned, but the bamboo paneling could be more tightly fitted."
+        },
+        "design_elements": {
+          "style": "Rustic",
+          "functional_features": [
+            "Staircase",
+            "Railings",
+            "Bamboo wall paneling"
+          ],
+          "aesthetic_features": [
+            "Natural wood finish",
+            "Bamboo texture",
+            "White metal railings"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This rustic wooden staircase features bamboo wall paneling and white metal railings, offering a blend of natural and industrial elements. The design emphasizes functionality and a warm, earthy aesthetic.",
+          "quality_rating": 7
+        },
+        "keywords": [
+          "wooden staircase",
+          "bamboo paneling",
+          "rustic design",
+          "metal railings",
+          "interior carpentry"
+        ],
+        "timestamp": "2026-01-07T05:29:27.852389",
+        "file_size": 208626
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.19.jpeg",
+      "timestamp": "2026-01-07T05:29:38.216477",
+      "file_size": 117546,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.52.19.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A wooden staircase with metal railings",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "joinery_techniques": [
+            "Mortise and Tenon",
+            "Screwed Joints"
+          ],
+          "construction_methods": [
+            "Modular Assembly",
+            "Hand Rail Installation"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The steps and railings are evenly spaced and aligned with precision.",
+          "surface_quality": "High - The wood surface is smooth and well-finished, with no visible rough edges.",
+          "attention_to_detail": "High - The railings are securely attached, and the steps are evenly spaced."
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Sturdy railings",
+            "Evenly spaced steps"
+          ],
+          "aesthetic_features": [
+            "Clean lines",
+            "Natural wood finish"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This modern wooden staircase showcases precision craftsmanship and a clean, natural wood finish. The sturdy metal railings provide both safety and a sleek aesthetic, making it a perfect addition to contemporary interiors.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "wooden staircase",
+          "metal railings",
+          "modern design",
+          "craftsmanship",
+          "interior stairs"
+        ],
+        "timestamp": "2026-01-07T05:29:38.216477",
+        "file_size": 117546
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.22.jpeg",
+      "timestamp": "2026-01-07T05:29:49.173516",
+      "file_size": 186168,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.52.22.jpeg",
+        "image_type": "Close-up detail",
+        "primary_subject": "A series of woven bamboo or rattan ceiling fans mounted on a beige fabric-covered wall",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Bamboo/Rattan",
+            "Fabric",
+            "Metal (for mounting hardware)"
+          ],
+          "joinery_techniques": [
+            "Woven construction",
+            "Interlocking joints"
+          ],
+          "construction_methods": [
+            "Handwoven",
+            "Mounting hardware installation"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The fans are evenly spaced and symmetrically aligned, indicating careful planning and execution.",
+          "surface_quality": "High - The woven texture of the fans is smooth and consistent, with no visible flaws or irregularities.",
+          "attention_to_detail": "High - The alignment of the fans and the neatness of the fabric covering suggest meticulous attention to detail."
+        },
+        "design_elements": {
+          "style": "Rustic/Traditional",
+          "functional_features": [
+            "Ceiling fans for air circulation",
+            "Aesthetic wall covering"
+          ],
+          "aesthetic_features": [
+            "Natural material texture",
+            "Symmetrical arrangement",
+            "Neutral color palette"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Detail",
+          "accompanying_text": "This image showcases a beautifully crafted series of woven bamboo or rattan ceiling fans mounted on a beige fabric-covered wall. The intricate weaving and precise alignment highlight the craftsmanship and attention to detail, creating a rustic yet elegant aesthetic.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Bamboo fans",
+          "Rattan ceiling fans",
+          "Woven craftsmanship",
+          "Rustic decor",
+          "Interior design",
+          "Handwoven",
+          "Natural materials",
+          "Symmetrical arrangement"
+        ],
+        "timestamp": "2026-01-07T05:29:49.173516",
+        "file_size": 186168
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.25.jpeg",
+      "timestamp": "2026-01-07T05:30:09.289274",
+      "file_size": 206175,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.52.25.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A corner cabinet with red-painted doors and wooden countertop, featuring a combination of storage and display elements.",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Solid Wood",
+            "Paint",
+            "Glass"
+          ],
+          "joinery_techniques": [
+            "Dovetail joints",
+            "Miter joints"
+          ],
+          "construction_methods": [
+            "Frame-and-panel construction",
+            "Face-frame cabinetry"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The cabinet doors are well-aligned, and the countertop edges are cleanly finished.",
+          "surface_quality": "High - The paint finish on the cabinet doors is smooth and even, with no visible brush marks.",
+          "attention_to_detail": "High - The cabinet includes subtle design elements like the wooden countertop and glass-fronted upper cabinets."
+        },
+        "design_elements": {
+          "style": "Traditional",
+          "functional_features": [
+            "Storage cabinets",
+            "Countertop workspace",
+            "Glass display section"
+          ],
+          "aesthetic_features": [
+            "Red-painted doors",
+            "Wooden countertop",
+            "Decorative glass panels"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This corner cabinet showcases a blend of traditional craftsmanship and functional design. The red-painted doors and wooden countertop create a striking contrast, while the glass-fronted upper cabinets add an elegant touch.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Corner cabinet",
+          "Traditional craftsmanship",
+          "Red-painted doors",
+          "Wooden countertop",
+          "Glass display"
+        ],
+        "timestamp": "2026-01-07T05:30:09.289274",
+        "file_size": 206175
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.27.jpeg",
+      "timestamp": "2026-01-07T05:30:20.178087",
+      "file_size": 180295,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.52.27.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "Outdoor rooftop seating area with wooden furniture and decorative elements",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Bamboo",
+            "Wood",
+            "Wicker",
+            "Metal",
+            "Ceramic tiles"
+          ],
+          "joinery_techniques": [
+            "Mortise and Tenon",
+            "Dowel Joints",
+            "Screws and Bolts"
+          ],
+          "construction_methods": [
+            "Frame and Panel",
+            "Modular Assembly",
+            "Bamboo Weaving"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The furniture and structures are well-aligned with clean lines and consistent joinery.",
+          "surface_quality": "High - The surfaces are smooth and well-finished, with no visible rough edges.",
+          "attention_to_detail": "High - The intricate weaving of the wicker chairs and the detailed tile work on the floor showcase meticulous craftsmanship."
+        },
+        "design_elements": {
+          "style": "Rustic with Modern touches",
+          "functional_features": [
+            "Outdoor seating",
+            "Privacy screens",
+            "Decorative plants"
+          ],
+          "aesthetic_features": [
+            "Patterned tile flooring",
+            "Wicker furniture",
+            "Natural wood finishes"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This rooftop seating area combines rustic charm with modern functionality, featuring handcrafted bamboo and wicker furniture. The intricate tile work and natural wood finishes create a serene and inviting outdoor space.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Outdoor furniture",
+          "Bamboo craftsmanship",
+          "Rooftop design",
+          "Wicker chairs",
+          "Rustic decor"
+        ],
+        "timestamp": "2026-01-07T05:30:20.178087",
+        "file_size": 180295
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.30.jpeg",
+      "timestamp": "2026-01-07T05:30:31.762188",
+      "file_size": 205214,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.52.30.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A bar counter with intricate design and two individuals standing behind it, showcasing the completed project",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "wood",
+            "metal",
+            "glass",
+            "decorative fabric"
+          ],
+          "joinery_techniques": [
+            "mortise and tenon",
+            "dowel joints"
+          ],
+          "construction_methods": [
+            "frame and panel",
+            "veneering"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The alignment of the counter and the symmetry of the decorative elements are precise, indicating careful planning and execution.",
+          "surface_quality": "High - The surfaces are smooth and well-finished, with no visible imperfections or rough edges.",
+          "attention_to_detail": "High - The intricate design of the counter, including the decorative fabric and the hanging lamps, shows meticulous attention to detail."
+        },
+        "design_elements": {
+          "style": "Traditional with a touch of modern elegance",
+          "functional_features": [
+            "bar counter",
+            "storage space",
+            "display shelves"
+          ],
+          "aesthetic_features": [
+            "decorative fabric",
+            "hanging lamps",
+            "ornate metal railings"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This bar counter project showcases a blend of traditional and modern design elements, featuring intricate woodwork, metal railings, and decorative fabric. The attention to detail and high-quality craftsmanship make it a standout piece for any setting.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "bar counter",
+          "woodworking",
+          "traditional design",
+          "modern elegance",
+          "craftsmanship",
+          "interior design"
+        ],
+        "timestamp": "2026-01-07T05:30:31.762188",
+        "file_size": 205214
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.46.jpeg",
+      "timestamp": "2026-01-07T05:30:55.118697",
+      "file_size": 166038,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.52.46.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "Outdoor rooftop seating area with wooden furniture, including tables and chairs, set on a patterned tiled floor with decorative plants and a scenic background.",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Teak wood",
+            "Wicker",
+            "Ceramic tiles",
+            "Metal railings"
+          ],
+          "joinery_techniques": [
+            "Mortise and tenon",
+            "Dowel joints"
+          ],
+          "construction_methods": [
+            "Handcrafted assembly",
+            "Modular furniture construction"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The furniture pieces are well-aligned and symmetrical, indicating careful measurement and cutting.",
+          "surface_quality": "High - The surfaces of the tables and chairs are smooth and free of rough edges, suggesting thorough sanding and finishing.",
+          "attention_to_detail": "High - The intricate patterns on the tiles and the neat arrangement of the furniture and plants show meticulous attention to detail."
+        },
+        "design_elements": {
+          "style": "Rustic/Modern",
+          "functional_features": [
+            "Comfortable seating",
+            "Weather-resistant materials",
+            "Modular arrangement"
+          ],
+          "aesthetic_features": [
+            "Patterned tile flooring",
+            "Natural wood finish",
+            "Decorative plants",
+            "Scenic view integration"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This outdoor rooftop seating area showcases a harmonious blend of rustic and modern design elements. The handcrafted wooden furniture, paired with intricate tile work and lush greenery, creates an inviting and stylish space perfect for relaxation and social gatherings.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "outdoor furniture",
+          "wooden tables",
+          "wicker chairs",
+          "rooftop design",
+          "rustic modern",
+          "handcrafted furniture",
+          "ceramic tiles",
+          "outdoor seating"
+        ],
+        "timestamp": "2026-01-07T05:30:55.118697",
+        "file_size": 166038
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.51.jpeg",
+      "timestamp": "2026-01-07T05:31:07.304915",
+      "file_size": 156056,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.52.51.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "Outdoor patio furniture set including tables and chairs",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Teak wood",
+            "Wicker",
+            "Metal"
+          ],
+          "joinery_techniques": [
+            "Mortise and tenon",
+            "Dowel joints"
+          ],
+          "construction_methods": [
+            "Frame assembly",
+            "Wicker weaving"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - Clean cuts, well-aligned joints, and consistent spacing between components",
+          "surface_quality": "High - Smooth surfaces with no visible rough edges or splinters",
+          "attention_to_detail": "High - Intricate wicker weaving, polished table surfaces, and uniform chair designs"
+        },
+        "design_elements": {
+          "style": "Rustic/Modern",
+          "functional_features": [
+            "Ergonomic chair design",
+            "Sturdy table construction"
+          ],
+          "aesthetic_features": [
+            "Zebra-striped wicker pattern",
+            "Natural wood finish",
+            "Decorative tile flooring"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This outdoor patio set showcases a blend of rustic and modern design elements, featuring teak wood tables and zebra-striped wicker chairs. The set is designed for both comfort and durability, making it ideal for outdoor dining and relaxation.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Outdoor furniture",
+          "Teak wood",
+          "Wicker chairs",
+          "Patio set",
+          "Rustic design",
+          "Modern design"
+        ],
+        "timestamp": "2026-01-07T05:31:07.304915",
+        "file_size": 156056
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.58.jpeg",
+      "timestamp": "2026-01-07T05:31:18.056811",
+      "file_size": 187598,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.52.58.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "Interior design featuring woven pendant lights, bamboo elements, and a rustic wall finish",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Bamboo",
+            "Wicker",
+            "Wood",
+            "Glass"
+          ],
+          "joinery_techniques": [
+            "Woven construction",
+            "Knot tying",
+            "Bamboo lashing"
+          ],
+          "construction_methods": [
+            "Handwoven",
+            "Natural fiber binding",
+            "Modular assembly"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The pendant lights and woven elements show consistent and tight weaving, indicating skilled craftsmanship.",
+          "surface_quality": "High - The surfaces of the bamboo and wicker elements are smooth and well-finished, with no visible rough edges.",
+          "attention_to_detail": "High - The intricate weaving patterns and the alignment of the pendant lights demonstrate a high level of attention to detail."
+        },
+        "design_elements": {
+          "style": "Rustic/Modern",
+          "functional_features": [
+            "Lighting",
+            "Seating arrangement",
+            "Natural ventilation"
+          ],
+          "aesthetic_features": [
+            "Natural textures",
+            "Earthy tones",
+            "Organic shapes"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This interior design project showcases the harmonious blend of natural materials like bamboo and wicker, creating a warm and inviting atmosphere. The woven pendant lights and rustic wall finish highlight the beauty of handcrafted elements in modern interior design.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Bamboo",
+          "Wicker",
+          "Pendant lights",
+          "Rustic design",
+          "Interior design",
+          "Natural materials",
+          "Handwoven",
+          "Modern rustic"
+        ],
+        "timestamp": "2026-01-07T05:31:18.056811",
+        "file_size": 187598
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.53.04.jpeg",
+      "timestamp": "2026-01-07T05:31:39.966809",
+      "file_size": 162732,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.53.04.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "Outdoor patio furniture setup with wooden tables, chairs, and decorative elements",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Teak wood",
+            "Wicker",
+            "Metal",
+            "Ceramic tiles"
+          ],
+          "joinery_techniques": [
+            "Mortise and tenon",
+            "Dowel joints"
+          ],
+          "construction_methods": [
+            "Handcrafted assembly",
+            "Modular construction"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The furniture pieces are well-aligned and symmetrical, indicating careful measurement and cutting.",
+          "surface_quality": "High - The surfaces are smooth and free of rough edges, suggesting thorough sanding and finishing.",
+          "attention_to_detail": "High - The intricate patterns on the tiles and the consistent weaving of the wicker chairs show meticulous craftsmanship."
+        },
+        "design_elements": {
+          "style": "Rustic/Modern",
+          "functional_features": [
+            "Outdoor seating",
+            "Heating elements",
+            "Modular arrangement"
+          ],
+          "aesthetic_features": [
+            "Patterned tiles",
+            "Natural wood finish",
+            "Wicker chair design"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This outdoor patio setup showcases a blend of rustic and modern design elements, featuring handcrafted teak wood furniture, intricately patterned ceramic tiles, and cozy wicker seating. The space is designed for comfort and style, perfect for both relaxation and social gatherings.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Outdoor furniture",
+          "Teak wood",
+          "Wicker chairs",
+          "Patio design",
+          "Rustic modern",
+          "Handcrafted furniture"
+        ],
+        "timestamp": "2026-01-07T05:31:39.966809",
+        "file_size": 162732
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.54.13.jpeg",
+      "timestamp": "2026-01-07T05:31:50.316150",
+      "file_size": 172299,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.54.13.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "Interior staircase with wooden railings and decorative elements",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Wood",
+            "Metal",
+            "Fabric",
+            "Glass"
+          ],
+          "joinery_techniques": [
+            "Mortise and Tenon",
+            "Dowel Joints"
+          ],
+          "construction_methods": [
+            "Frame and Panel",
+            "Laminating"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The railings and steps are well-aligned, showing meticulous attention to measurements and cuts.",
+          "surface_quality": "High - The wood surfaces are smooth, with no visible rough edges or imperfections.",
+          "attention_to_detail": "High - The intricate design of the railings and the hanging decorative elements show a high level of craftsmanship."
+        },
+        "design_elements": {
+          "style": "Rustic/Modern",
+          "functional_features": [
+            "Staircase with railings",
+            "Lighting fixtures"
+          ],
+          "aesthetic_features": [
+            "Decorative hanging elements",
+            "Natural wood finish",
+            "Patterned floor tiles"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This image showcases a beautifully crafted interior staircase with a blend of rustic and modern design elements. The wooden railings and steps are complemented by intricate hanging decorations, creating a warm and inviting atmosphere.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Interior staircase",
+          "Wooden railings",
+          "Rustic design",
+          "Modern design",
+          "Craftsmanship",
+          "Home decor",
+          "Woodworking"
+        ],
+        "timestamp": "2026-01-07T05:31:50.316150",
+        "file_size": 172299
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.54.40.jpeg",
+      "timestamp": "2026-01-07T05:32:01.575487",
+      "file_size": 209335,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.54.40.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "Interior design featuring woven and natural material lighting fixtures and furniture",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Wicker",
+            "Bamboo",
+            "Wood",
+            "Fabric",
+            "Metal"
+          ],
+          "joinery_techniques": [
+            "Weaving",
+            "Laminating",
+            "Bending"
+          ],
+          "construction_methods": [
+            "Handwoven",
+            "Assembly",
+            "Suspension mounting"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The fixtures and furniture pieces are well-aligned and symmetrically balanced.",
+          "surface_quality": "High - The surfaces are smooth and well-finished, with no visible rough edges.",
+          "attention_to_detail": "High - The intricate weaving and detailed craftsmanship of the lighting fixtures and furniture are evident."
+        },
+        "design_elements": {
+          "style": "Rustic/Modern",
+          "functional_features": [
+            "Lighting",
+            "Seating",
+            "Room divider"
+          ],
+          "aesthetic_features": [
+            "Natural textures",
+            "Organic shapes",
+            "Warm lighting"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This image showcases a beautifully crafted interior space featuring handwoven lighting fixtures and natural material furniture. The combination of rustic and modern elements creates a warm and inviting atmosphere, perfect for a cozy yet stylish living area.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Interior design",
+          "Woven lighting",
+          "Natural materials",
+          "Rustic modern",
+          "Handcrafted furniture"
+        ],
+        "timestamp": "2026-01-07T05:32:01.575487",
+        "file_size": 209335
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.54.41 (1).jpeg",
+      "timestamp": "2026-01-07T05:32:22.566360",
+      "file_size": 221144,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.54.41 (1).jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "Interior design of a caf\u00e9 or lounge area featuring custom carpentry elements such as woven pendant lights, textured columns, and patterned flooring",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Wicker",
+            "Wood",
+            "Fabric",
+            "Glass",
+            "Metal"
+          ],
+          "joinery_techniques": [
+            "Woven construction",
+            "Laminating",
+            "Mitered joints"
+          ],
+          "construction_methods": [
+            "Handwoven",
+            "Modular assembly",
+            "Custom fabrication"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The woven pendant lights and textured columns show meticulous craftsmanship with consistent patterns and clean lines",
+          "surface_quality": "High - The surfaces of the columns and furniture appear smooth and well-finished, indicating high-quality sanding and finishing processes",
+          "attention_to_detail": "High - The intricate designs of the pendant lights and the detailed patterns on the flooring demonstrate a high level of attention to detail"
+        },
+        "design_elements": {
+          "style": "Rustic/Modern",
+          "functional_features": [
+            "Pendant lighting",
+            "Textured columns",
+            "Patterned flooring",
+            "Custom furniture"
+          ],
+          "aesthetic_features": [
+            "Natural materials",
+            "Woven textures",
+            "Geometric patterns",
+            "Warm lighting"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This image showcases a beautifully crafted interior space featuring custom carpentry elements. The woven pendant lights and textured columns add a unique rustic-modern touch, while the patterned flooring enhances the overall aesthetic. This project demonstrates a high level of craftsmanship and attention to detail.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Interior design",
+          "Custom carpentry",
+          "Woven pendant lights",
+          "Textured columns",
+          "Patterned flooring",
+          "Rustic-modern style",
+          "Craftsmanship"
+        ],
+        "timestamp": "2026-01-07T05:32:22.566360",
+        "file_size": 221144
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.54.41 (2).jpeg",
+      "timestamp": "2026-01-07T05:32:31.373313",
+      "file_size": 193611,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.54.41 (2).jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "Interior space with custom furniture and decor elements, including a sofa, chairs, tables, and hanging lamps",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "wood",
+            "fabric",
+            "metal",
+            "glass",
+            "natural fibers"
+          ],
+          "joinery_techniques": [
+            "doweling",
+            "mortise and tenon",
+            "screw joinery"
+          ],
+          "construction_methods": [
+            "frame and panel",
+            "lamination",
+            "upholstery"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The joinery and assembly of the furniture pieces show clean, tight joints and precise measurements.",
+          "surface_quality": "High - The surfaces of the wood and upholstery are smooth and well-finished, with no visible imperfections.",
+          "attention_to_detail": "High - The intricate details in the hanging lamps and the alignment of the furniture pieces demonstrate careful craftsmanship."
+        },
+        "design_elements": {
+          "style": "Rustic/Modern",
+          "functional_features": [
+            "comfortable seating",
+            "functional lighting",
+            "space utilization"
+          ],
+          "aesthetic_features": [
+            "natural materials",
+            "earthy tones",
+            "organic shapes"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This image showcases a beautifully crafted interior space featuring custom-made furniture and decor elements. The use of natural materials and earthy tones creates a warm and inviting atmosphere, perfect for a cozy gathering spot.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "custom furniture",
+          "interior design",
+          "woodworking",
+          "rustic decor",
+          "modern craftsmanship"
+        ],
+        "timestamp": "2026-01-07T05:32:31.373313",
+        "file_size": 193611
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.54.41.jpeg",
+      "timestamp": "2026-01-07T05:32:41.512382",
+      "file_size": 174882,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.54.41.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "Interior space featuring custom wooden furniture and decor elements, including tables, chairs, and staircase",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Wood",
+            "Fabric",
+            "Metal",
+            "Glass"
+          ],
+          "joinery_techniques": [
+            "Dovetail joints",
+            "Mortise and tenon",
+            "Pocket holes"
+          ],
+          "construction_methods": [
+            "Frame and panel",
+            "Box construction",
+            "Laminating"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The joinery and assembly of the furniture and staircase show precise cuts and alignments.",
+          "surface_quality": "High - The surfaces are smooth and well-finished, indicating thorough sanding and finishing processes.",
+          "attention_to_detail": "High - The intricate details in the furniture, such as the chair legs and table edges, demonstrate careful craftsmanship."
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Custom seating",
+            "Staircase",
+            "Table and chair sets"
+          ],
+          "aesthetic_features": [
+            "Fringe pendant lights",
+            "Blackout curtains",
+            "Indoor plants"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This image showcases a beautifully crafted interior space featuring custom wooden furniture and decor. The attention to detail in the joinery and finishing highlights the high-quality craftsmanship involved in creating a modern and inviting atmosphere.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "woodworking",
+          "interior design",
+          "custom furniture",
+          "modern decor",
+          "craftsmanship"
+        ],
+        "timestamp": "2026-01-07T05:32:41.512382",
+        "file_size": 174882
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.54.42.jpeg",
+      "timestamp": "2026-01-07T05:33:02.560180",
+      "file_size": 194665,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.54.42.jpeg",
+        "image_type": "Close-up detail",
+        "primary_subject": "A section of a staircase with wooden handrails and a red-painted wall with woven bamboo panels",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Wood",
+            "Bamboo",
+            "Metal"
+          ],
+          "joinery_techniques": [
+            "Mortise and Tenon",
+            "Dowel Joints"
+          ],
+          "construction_methods": [
+            "Frame and Panel",
+            "Laminating"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The handrails and bamboo panels are well-aligned and evenly spaced, indicating careful measurement and cutting.",
+          "surface_quality": "High - The wood and bamboo surfaces are smooth, with no visible rough edges or splinters.",
+          "attention_to_detail": "High - The intricate design of the woven bamboo panels and the polished finish of the wooden handrails show meticulous craftsmanship."
+        },
+        "design_elements": {
+          "style": "Rustic",
+          "functional_features": [
+            "Sturdy handrails for safety",
+            "Bamboo panels for ventilation"
+          ],
+          "aesthetic_features": [
+            "Natural wood finish",
+            "Woven bamboo texture",
+            "Earthy color palette"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Detail",
+          "accompanying_text": "This close-up detail showcases the intricate craftsmanship of a rustic staircase with wooden handrails and woven bamboo panels. The combination of natural materials and precise joinery techniques highlights the blend of functionality and aesthetic appeal.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Staircase",
+          "Woodworking",
+          "Bamboo Panels",
+          "Rustic Design",
+          "Handrails",
+          "Craftsmanship",
+          "Joinery",
+          "Natural Materials"
+        ],
+        "timestamp": "2026-01-07T05:33:02.560180",
+        "file_size": 194665
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.54.50 (1).jpeg",
+      "timestamp": "2026-01-07T05:33:15.572924",
+      "file_size": 195289,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.54.50 (1).jpeg",
+        "image_type": "Close-up detail",
+        "primary_subject": "A detailed view of a bamboo wall with integrated shelving and decorative elements",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Bamboo",
+            "Wood",
+            "Metal",
+            "Fabric"
+          ],
+          "joinery_techniques": [
+            "Mortise and Tenon",
+            "Dowel Joints"
+          ],
+          "construction_methods": [
+            "Modular Assembly",
+            "Bamboo Weaving"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The alignment of bamboo strips and shelving units is precise, indicating careful measurement and cutting.",
+          "surface_quality": "High - The surfaces are smooth and well-finished, with no visible rough edges or imperfections.",
+          "attention_to_detail": "High - The integration of shelving, lighting, and decorative elements shows meticulous attention to detail."
+        },
+        "design_elements": {
+          "style": "Rustic/Modern",
+          "functional_features": [
+            "Integrated shelving",
+            "Lighting fixtures",
+            "Decorative wall art"
+          ],
+          "aesthetic_features": [
+            "Natural bamboo texture",
+            "Warm lighting",
+            "Hanging plants"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Detail",
+          "accompanying_text": "This image showcases the intricate craftsmanship of a bamboo wall installation, featuring integrated shelving and decorative elements. The use of natural materials and precise joinery techniques highlights the blend of functionality and aesthetics.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Bamboo wall",
+          "Integrated shelving",
+          "Rustic design",
+          "Natural materials",
+          "Precision craftsmanship"
+        ],
+        "timestamp": "2026-01-07T05:33:15.572924",
+        "file_size": 195289
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 21.54.50.jpeg",
+      "timestamp": "2026-01-07T05:33:25.239141",
+      "file_size": 221725,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 21.54.50.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A completed bamboo wall installation with integrated lighting and seating area",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "bamboo",
+            "wood",
+            "textile",
+            "lighting fixtures"
+          ],
+          "joinery_techniques": [
+            "mortise and tenon",
+            "dowelling"
+          ],
+          "construction_methods": [
+            "modular assembly",
+            "vertical installation"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The bamboo strips are evenly spaced and aligned, indicating careful measurement and installation.",
+          "surface_quality": "High - The bamboo surface is smooth and well-finished, with no visible rough edges or imperfections.",
+          "attention_to_detail": "High - The integration of lighting fixtures and the alignment of the bamboo strips show meticulous attention to detail."
+        },
+        "design_elements": {
+          "style": "Rustic/Modern",
+          "functional_features": [
+            "lighting integration",
+            "seating area",
+            "modular wall design"
+          ],
+          "aesthetic_features": [
+            "natural bamboo texture",
+            "warm lighting ambiance",
+            "contrasting textures with fabric and wood"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This project showcases a beautifully crafted bamboo wall installation with integrated lighting and a cozy seating area. The use of natural materials and modern design elements creates a warm and inviting atmosphere, perfect for both residential and commercial spaces.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "bamboo wall",
+          "rustic modern design",
+          "integrated lighting",
+          "wooden furniture",
+          "interior design",
+          "natural materials",
+          "craftsmanship"
+        ],
+        "timestamp": "2026-01-07T05:33:25.239141",
+        "file_size": 221725
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.02.05.jpeg",
+      "timestamp": "2026-01-07T05:55:56.513301",
+      "file_size": 84255,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.02.05.jpeg",
+        "image_type": "Work-in-progress",
+        "primary_subject": "Kitchen cabinetry and countertop installation with visible construction elements and unfinished surfaces",
+        "completion_stage": "Assembly",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Laminate",
+            "Tile",
+            "Metal"
+          ],
+          "joinery_techniques": [
+            "Butt joints",
+            "Screws"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Surface mounting"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "Medium - The alignment of the cabinets and countertop appears reasonably accurate, though some gaps and misalignments are visible.",
+          "surface_quality": "Medium - The surfaces show some imperfections and unfinished areas, indicating ongoing work.",
+          "attention_to_detail": "Medium - Basic installation is evident, but finishing touches and fine details are still pending."
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Modular cabinetry",
+            "Countertop workspace"
+          ],
+          "aesthetic_features": [
+            "Clean lines",
+            "Minimalist design"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Process",
+          "accompanying_text": "This image captures the ongoing installation of modern kitchen cabinetry and countertops. The focus is on the assembly stage, showcasing the modular design and initial setup before final touches and finishing.",
+          "quality_rating": 6
+        },
+        "keywords": [
+          "Kitchen cabinetry",
+          "Modular design",
+          "Work-in-progress",
+          "Modern kitchen",
+          "Carpentry"
+        ],
+        "timestamp": "2026-01-07T05:55:56.513301",
+        "file_size": 84255
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.02.07.jpeg",
+      "timestamp": "2026-01-07T05:56:06.304660",
+      "file_size": 79851,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.02.07.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A kitchen undergoing renovation with visible carpentry work on cabinets and countertops",
+        "completion_stage": "Work-in-progress",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Laminate",
+            "Tile",
+            "Metal hardware"
+          ],
+          "joinery_techniques": [
+            "Dovetail joints",
+            "Butt joints"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Surface mounting"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "Medium - [The cabinetry appears to be well-aligned, but some areas show minor misalignments]",
+          "surface_quality": "Medium - [The surfaces are smooth but show signs of ongoing finishing work]",
+          "attention_to_detail": "High - [The cabinetry design and installation show careful planning and execution]"
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Modular cabinetry",
+            "Integrated countertops",
+            "Under-cabinet lighting"
+          ],
+          "aesthetic_features": [
+            "Clean lines",
+            "Uniform color scheme",
+            "Minimalist design"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Process",
+          "accompanying_text": "This image showcases a modern kitchen undergoing a comprehensive renovation. The focus is on the carpentry work, highlighting the modular cabinetry and integrated countertops. The project demonstrates attention to detail and precision in the assembly and finishing stages.",
+          "quality_rating": 7
+        },
+        "keywords": [
+          "Kitchen renovation",
+          "Carpentry",
+          "Modular cabinetry",
+          "Modern design",
+          "Work-in-progress"
+        ],
+        "timestamp": "2026-01-07T05:56:06.304660",
+        "file_size": 79851
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.07.04.jpeg",
+      "timestamp": "2026-01-07T05:56:17.470822",
+      "file_size": 191500,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.07.04.jpeg",
+        "image_type": "Work-in-progress",
+        "primary_subject": "A partially completed kitchen cabinet with open drawers, showcasing internal storage and drawer slides",
+        "completion_stage": "Assembly",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Melamine",
+            "Drawer slides"
+          ],
+          "joinery_techniques": [
+            "Pocket screws",
+            "Dowel joints"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Precision cutting"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The cabinet edges and drawer alignment show precise measurements and clean cuts.",
+          "surface_quality": "Medium - Some areas show minor imperfections, likely from ongoing work and finishing touches.",
+          "attention_to_detail": "High - The drawer slides are well-aligned, and the cabinet structure appears sturdy."
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Pull-out drawers",
+            "Internal storage compartments"
+          ],
+          "aesthetic_features": [
+            "Smooth finish",
+            "Clean lines"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Process",
+          "accompanying_text": "This image captures the assembly stage of a modern kitchen cabinet, highlighting the precision and attention to detail in the construction process. The use of high-quality materials and advanced joinery techniques ensures durability and functionality.",
+          "quality_rating": 8
+        },
+        "keywords": [
+          "Kitchen cabinet",
+          "Drawer assembly",
+          "Modern design",
+          "Plywood construction",
+          "Precision carpentry"
+        ],
+        "timestamp": "2026-01-07T05:56:17.470822",
+        "file_size": 191500
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.07.05.jpeg",
+      "timestamp": "2026-01-07T05:56:40.915872",
+      "file_size": 247282,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.07.05.jpeg",
+        "image_type": "Close-up detail",
+        "primary_subject": "A partially open cabinet drawer with woven baskets inside, part of a kitchen or storage unit",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Wicker",
+            "Wooden dowels",
+            "Metal hinges"
+          ],
+          "joinery_techniques": [
+            "Dowel joinery",
+            "Butt joints"
+          ],
+          "construction_methods": [
+            "Plywood panel assembly",
+            "Basket weaving"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The cabinet door is well-aligned, and the drawer slides smoothly. The baskets fit snugly within the drawer.",
+          "surface_quality": "Medium - The plywood surface shows some minor imperfections and dust, likely from construction debris.",
+          "attention_to_detail": "High - The use of woven baskets for organization and the smooth operation of the drawer indicate careful craftsmanship."
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Pull-out drawer",
+            "Woven basket storage",
+            "Smooth drawer slides"
+          ],
+          "aesthetic_features": [
+            "Neutral color palette",
+            "Minimalist design",
+            "Textured elements with woven baskets"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Detail",
+          "accompanying_text": "This image showcases a well-crafted cabinet drawer with woven baskets, highlighting both functional storage solutions and attention to detail in modern carpentry. The smooth operation and precise alignment of the drawer demonstrate high-quality craftsmanship.",
+          "quality_rating": 8
+        },
+        "keywords": [
+          "Cabinet making",
+          "Woven baskets",
+          "Modern carpentry",
+          "Storage solutions",
+          "Drawer construction"
+        ],
+        "timestamp": "2026-01-07T05:56:40.915872",
+        "file_size": 247282
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.07.08.jpeg",
+      "timestamp": "2026-01-07T05:56:56.895862",
+      "file_size": 205752,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.07.08.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A kitchen cabinetry installation with a combination of upper and lower cabinets, countertops, and under-cabinet lighting",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Laminate",
+            "Marble countertop",
+            "Metal hardware"
+          ],
+          "joinery_techniques": [
+            "Dowel joints",
+            "Screw fasteners"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Surface mounting"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The alignment of the cabinets and countertops is precise, with minimal gaps and flush surfaces",
+          "surface_quality": "High - The surfaces are smooth and well-finished, with no visible imperfections",
+          "attention_to_detail": "High - The under-cabinet lighting is evenly installed, and the hardware is uniformly aligned"
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Under-cabinet lighting",
+            "Ample storage space",
+            "Durable countertop surface"
+          ],
+          "aesthetic_features": [
+            "Clean lines",
+            "Uniform color scheme",
+            "Minimalist design"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This modern kitchen cabinetry installation showcases precision craftsmanship and functional design. The use of under-cabinet lighting and durable materials highlights both aesthetic appeal and practicality.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Kitchen cabinetry",
+          "Modern design",
+          "Under-cabinet lighting",
+          "Marble countertop",
+          "Precision craftsmanship"
+        ],
+        "timestamp": "2026-01-07T05:56:56.895862",
+        "file_size": 205752
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.07.10.jpeg",
+      "timestamp": "2026-01-07T05:57:17.678442",
+      "file_size": 234148,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.07.10.jpeg",
+        "image_type": "Work-in-progress",
+        "primary_subject": "Kitchen cabinetry and countertops in a mid-renovation state",
+        "completion_stage": "Assembly",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Laminate",
+            "Stainless Steel",
+            "Tile"
+          ],
+          "joinery_techniques": [
+            "Dowel joints",
+            "Screw fasteners"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Surface mounting"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "Medium - [Cabinet alignment appears straight but some gaps are visible]",
+          "surface_quality": "Medium - [Surfaces are mostly smooth but some areas show rough edges and dust]",
+          "attention_to_detail": "Medium - [Visible attention to alignment but some finishing details are incomplete]"
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Modular cabinetry",
+            "Stainless steel countertops",
+            "Under-cabinet lighting"
+          ],
+          "aesthetic_features": [
+            "Clean lines",
+            "Neutral color palette",
+            "Minimalist design"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Process",
+          "accompanying_text": "This image captures a kitchen renovation in progress, showcasing the assembly of modern modular cabinetry and stainless steel countertops. The focus is on the precision and alignment of the cabinetry units before final finishing touches are applied.",
+          "quality_rating": 7
+        },
+        "keywords": [
+          "Kitchen renovation",
+          "Modular cabinetry",
+          "Stainless steel countertops",
+          "Modern design",
+          "Work-in-progress"
+        ],
+        "timestamp": "2026-01-07T05:57:17.678442",
+        "file_size": 234148
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.07.12.jpeg",
+      "timestamp": "2026-01-07T05:57:30.234537",
+      "file_size": 164075,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.07.12.jpeg",
+        "image_type": "Close-up detail",
+        "primary_subject": "Interior cabinet with wire racks and lighting",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Metal wire",
+            "LED strip lighting"
+          ],
+          "joinery_techniques": [
+            "Screwed joints",
+            "Hinge attachment"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Precision cutting"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The alignment of the wire racks and lighting fixtures is precise, indicating careful measurement and installation.",
+          "surface_quality": "High - The surfaces of the plywood and metal components are smooth and well-finished.",
+          "attention_to_detail": "High - The integration of lighting and the neatness of the wire racks show meticulous attention to detail."
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Adjustable wire racks",
+            "Integrated LED lighting"
+          ],
+          "aesthetic_features": [
+            "Clean lines",
+            "Minimalist design"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Detail",
+          "accompanying_text": "This image showcases a meticulously crafted interior cabinet featuring adjustable wire racks and integrated LED lighting. The high-quality materials and precise construction highlight the attention to detail and craftsmanship involved in this project.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Cabinet",
+          "Wire racks",
+          "LED lighting",
+          "Modern design",
+          "Precision craftsmanship"
+        ],
+        "timestamp": "2026-01-07T05:57:30.234537",
+        "file_size": 164075
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.07.13.jpeg",
+      "timestamp": "2026-01-07T05:57:39.901332",
+      "file_size": 121902,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.07.13.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A kitchen undergoing renovation with visible carpentry work on cabinets and countertops",
+        "completion_stage": "Work-in-progress",
+        "technical_details": {
+          "materials": [
+            "plywood",
+            "laminate",
+            "tile",
+            "metal fixtures"
+          ],
+          "joinery_techniques": [
+            "dowel joints",
+            "screw fastenings"
+          ],
+          "construction_methods": [
+            "modular assembly",
+            "surface mounting"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "Medium - [The cabinetry alignment appears straight, but some gaps and unevenness are visible]",
+          "surface_quality": "Medium - [The surfaces are mostly smooth, but there are areas with visible imperfections and dust]",
+          "attention_to_detail": "Medium - [The installation is functional, but some finishing touches are still needed]"
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "modular cabinetry",
+            "integrated lighting",
+            "stainless steel sink"
+          ],
+          "aesthetic_features": [
+            "clean lines",
+            "neutral color palette",
+            "under-cabinet lighting"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Process",
+          "accompanying_text": "This image showcases a kitchen renovation project in progress, highlighting the installation of modular cabinetry and countertops. The focus is on the structural and functional aspects of the carpentry work, with attention to detail and precision in the assembly process.",
+          "quality_rating": 7
+        },
+        "keywords": [
+          "kitchen renovation",
+          "modular cabinetry",
+          "carpentry",
+          "modern design",
+          "work-in-progress"
+        ],
+        "timestamp": "2026-01-07T05:57:39.901332",
+        "file_size": 121902
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.07.15.jpeg",
+      "timestamp": "2026-01-07T05:57:59.562641",
+      "file_size": 111911,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.07.15.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A kitchen with custom cabinetry and countertops, showing both upper and lower cabinets, a central island, and a person standing in the kitchen.",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Laminate",
+            "Granite",
+            "Tile"
+          ],
+          "joinery_techniques": [
+            "Dowel joints",
+            "Screws",
+            "Adhesives"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Pre-fabricated components"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The cabinets and countertops are well-aligned, with clean edges and consistent spacing.",
+          "surface_quality": "High - The surfaces are smooth, with no visible imperfections or rough spots.",
+          "attention_to_detail": "High - The lighting under the cabinets and the overall finish indicate careful attention to detail."
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Upper and lower cabinets",
+            "Central island",
+            "Under-cabinet lighting"
+          ],
+          "aesthetic_features": [
+            "Sleek cabinetry",
+            "Granite countertops",
+            "LED lighting"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This modern kitchen showcases custom cabinetry and granite countertops, highlighting precision craftsmanship and attention to detail. The under-cabinet lighting and sleek design elements create a contemporary and functional space.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Kitchen cabinetry",
+          "Granite countertops",
+          "Modern design",
+          "Custom carpentry",
+          "Under-cabinet lighting"
+        ],
+        "timestamp": "2026-01-07T05:57:59.562641",
+        "file_size": 111911
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.07.17.jpeg",
+      "timestamp": "2026-01-07T05:58:07.261490",
+      "file_size": 78215,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.07.17.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A modern kitchen with custom cabinetry, countertops, and a tiled backsplash",
+        "completion_stage": "Work-in-progress",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Laminate",
+            "Tile",
+            "Granite"
+          ],
+          "joinery_techniques": [
+            "Dovetail joints",
+            "Rabbet joints"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Precision cutting"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The cabinetry and countertops are aligned with minimal gaps, indicating careful measurement and cutting.",
+          "surface_quality": "High - The surfaces of the cabinets and countertops appear smooth and well-finished.",
+          "attention_to_detail": "High - The alignment of the tiles on the backsplash and the cabinet doors show meticulous attention to detail."
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Modular cabinetry",
+            "Integrated countertops",
+            "Tiled backsplash"
+          ],
+          "aesthetic_features": [
+            "Clean lines",
+            "Neutral color palette",
+            "Sleek finishes"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This image showcases a modern kitchen renovation featuring custom cabinetry, granite countertops, and a tiled backsplash. The precise alignment and high-quality finishes highlight the craftsmanship involved in this project.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Modern kitchen",
+          "Custom cabinetry",
+          "Granite countertops",
+          "Tiled backsplash",
+          "Precision carpentry"
+        ],
+        "timestamp": "2026-01-07T05:58:07.261490",
+        "file_size": 78215
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.07.20.jpeg",
+      "timestamp": "2026-01-07T05:58:18.197206",
+      "file_size": 108636,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.07.20.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A kitchen undergoing carpentry work with visible cabinetry and countertops",
+        "completion_stage": "Work-in-progress",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Laminate",
+            "Tile"
+          ],
+          "joinery_techniques": [
+            "Dowel joints",
+            "Screws"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Surface mounting"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "Medium - Cabinets are aligned but some edges show minor misalignments",
+          "surface_quality": "Medium - Some surfaces appear smooth, but there are visible imperfections and dust",
+          "attention_to_detail": "Medium - Basic attention to detail is evident, but finishing touches are pending"
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Modular cabinetry",
+            "Countertop space"
+          ],
+          "aesthetic_features": [
+            "Clean lines",
+            "Neutral color palette"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Process",
+          "accompanying_text": "This image showcases a modern kitchen undergoing carpentry work. The modular cabinetry and countertop space highlight the functional and aesthetic aspects of the design, with attention to detail evident in the alignment and surface quality.",
+          "quality_rating": 7
+        },
+        "keywords": [
+          "Kitchen carpentry",
+          "Modular cabinetry",
+          "Modern design",
+          "Work-in-progress",
+          "Craftsmanship"
+        ],
+        "timestamp": "2026-01-07T05:58:18.197206",
+        "file_size": 108636
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.38.28 (1).jpeg",
+      "timestamp": "2026-01-07T05:58:37.960485",
+      "file_size": 56128,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.38.28 (1).jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A built-in wardrobe with a combination of flat-panel and slatted doors, featuring wood and laminate finishes",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Laminate",
+            "Wood veneer",
+            "MDF"
+          ],
+          "joinery_techniques": [
+            "Dowel joinery",
+            "Miter joints"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Frame and panel construction"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The alignment of the doors and panels is flawless, with minimal gaps and precise joinery",
+          "surface_quality": "High - The surfaces are smooth and free of imperfections, with a consistent finish",
+          "attention_to_detail": "High - The integration of different materials and the clean lines of the design demonstrate meticulous attention to detail"
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Slatted ventilation panels",
+            "Soft-close hinges",
+            "Modular storage units"
+          ],
+          "aesthetic_features": [
+            "Wood and laminate contrast",
+            "Minimalist design",
+            "LED underlighting"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This modern built-in wardrobe showcases a seamless blend of wood and laminate finishes, featuring slatted ventilation panels and soft-close hinges. The clean lines and precise construction highlight the craftsmanship and attention to detail.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Built-in wardrobe",
+          "Modern design",
+          "Wood laminate",
+          "Modular storage",
+          "Precision joinery"
+        ],
+        "timestamp": "2026-01-07T05:58:37.960485",
+        "file_size": 56128
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.38.28.jpeg",
+      "timestamp": "2026-01-07T05:58:45.859072",
+      "file_size": 62080,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.38.28.jpeg",
+        "image_type": "Work-in-progress",
+        "primary_subject": "A partially constructed built-in shelving unit with a combination of open shelves and closed cabinets",
+        "completion_stage": "Assembly",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Melamine-faced boards",
+            "Marble-patterned panels",
+            "Wooden drawer slides"
+          ],
+          "joinery_techniques": [
+            "Butt joints",
+            "Screw fastenings"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Panel installation"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "Medium - The alignment of shelves and cabinets is generally straight, but some gaps and misalignments are visible.",
+          "surface_quality": "Medium - The surfaces appear smooth, but there are minor imperfections and dust visible on the shelves.",
+          "attention_to_detail": "Medium - The installation is functional but lacks fine finishing touches such as edge trimming and seamless panel alignment."
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Open shelving",
+            "Closed cabinets with drawers",
+            "Modular design"
+          ],
+          "aesthetic_features": [
+            "Marble-patterned panels",
+            "Clean lines",
+            "Neutral color palette"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Process",
+          "accompanying_text": "This image showcases a work-in-progress built-in shelving unit featuring a combination of open shelves and closed cabinets. The modular design allows for flexible storage solutions, and the marble-patterned panels add a touch of elegance to the modern aesthetic.",
+          "quality_rating": 6
+        },
+        "keywords": [
+          "built-in shelving",
+          "modular design",
+          "modern style",
+          "work-in-progress",
+          "storage solutions"
+        ],
+        "timestamp": "2026-01-07T05:58:45.859072",
+        "file_size": 62080
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.38.29 (1).jpeg",
+      "timestamp": "2026-01-07T05:58:55.842233",
+      "file_size": 105749,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.38.29 (1).jpeg",
+        "image_type": "Work-in-progress",
+        "primary_subject": "Kitchen countertop installation with marble slab and cabinetry",
+        "completion_stage": "Finishing",
+        "technical_details": {
+          "materials": [
+            "Marble",
+            "Wood",
+            "Metal"
+          ],
+          "joinery_techniques": [
+            "Dovetail joints",
+            "Miter joints"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Precision cutting"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The marble slabs are precisely cut and aligned, showing minimal gaps and clean edges.",
+          "surface_quality": "High - The marble surface is polished to a high sheen, and the wood surfaces appear smooth and well-finished.",
+          "attention_to_detail": "High - The alignment of the marble slabs and the careful placement of the protective coverings indicate meticulous attention to detail."
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Spacious countertop",
+            "Integrated cabinetry"
+          ],
+          "aesthetic_features": [
+            "Marble veining pattern",
+            "Minimalist design"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Process",
+          "accompanying_text": "This image showcases the meticulous installation of a marble countertop in a modern kitchen setting. The precision cutting and alignment of the marble slabs, combined with the sleek cabinetry, highlight the craftsmanship involved in creating a high-end kitchen space.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Marble countertop",
+          "Kitchen installation",
+          "Modern design",
+          "Precision craftsmanship",
+          "Carpentry"
+        ],
+        "timestamp": "2026-01-07T05:58:55.842233",
+        "file_size": 105749
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.38.29.jpeg",
+      "timestamp": "2026-01-07T05:59:19.639600",
+      "file_size": 76884,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.38.29.jpeg",
+        "image_type": "Work-in-progress",
+        "primary_subject": "Custom-built shelving unit with marble countertop",
+        "completion_stage": "Assembly",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Marble",
+            "MDF",
+            "Wood veneer"
+          ],
+          "joinery_techniques": [
+            "Dado joints",
+            "Rabbet joints"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Adhesive bonding"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The shelves are well-aligned, and the joints are cleanly cut.",
+          "surface_quality": "Medium - Some surfaces appear unfinished, likely due to the work-in-progress stage.",
+          "attention_to_detail": "High - The marble countertop is precisely cut and aligned with the shelving unit."
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Modular shelving",
+            "Marble countertop",
+            "Open and closed storage"
+          ],
+          "aesthetic_features": [
+            "Clean lines",
+            "Minimalist design",
+            "Contrast between wood and marble"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Process",
+          "accompanying_text": "This image showcases a custom-built shelving unit in the assembly stage, featuring a marble countertop and modular storage solutions. The design emphasizes clean lines and a minimalist aesthetic, combining functionality with modern style.",
+          "quality_rating": 8
+        },
+        "keywords": [
+          "Custom shelving",
+          "Marble countertop",
+          "Modern design",
+          "Modular storage",
+          "Work-in-progress"
+        ],
+        "timestamp": "2026-01-07T05:59:19.639600",
+        "file_size": 76884
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.38.30 (1).jpeg",
+      "timestamp": "2026-01-07T05:59:30.083307",
+      "file_size": 143372,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.38.30 (1).jpeg",
+        "image_type": "Work-in-progress",
+        "primary_subject": "Custom-built wooden cabinetry and shelving unit",
+        "completion_stage": "Assembly",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Particleboard",
+            "Wooden shelves"
+          ],
+          "joinery_techniques": [
+            "Butt joints",
+            "Screws and fasteners"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Pre-fabricated panels"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "Medium - The alignment of the panels and shelves appears to be reasonably accurate, though some gaps and misalignments are visible.",
+          "surface_quality": "Medium - The surfaces are smooth but show some minor imperfections and unfinished edges.",
+          "attention_to_detail": "Medium - The construction is functional but lacks fine detailing and finishing touches."
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Modular shelving",
+            "Closed storage compartments"
+          ],
+          "aesthetic_features": [
+            "Clean lines",
+            "Minimalist design"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Process",
+          "accompanying_text": "This image showcases a work-in-progress custom-built wooden cabinetry and shelving unit. The modular design features plywood and particleboard panels with a focus on functionality and clean lines. The project is in the assembly stage, highlighting the construction process and initial setup.",
+          "quality_rating": 6
+        },
+        "keywords": [
+          "wooden cabinetry",
+          "modular shelving",
+          "plywood construction",
+          "modern design",
+          "work-in-progress"
+        ],
+        "timestamp": "2026-01-07T05:59:30.083307",
+        "file_size": 143372
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.38.30.jpeg",
+      "timestamp": "2026-01-07T05:59:41.265242",
+      "file_size": 118768,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.38.30.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A modern kitchen with marble countertops and cabinetry, featuring a large central island",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Marble",
+            "Wood",
+            "Metal",
+            "Glass"
+          ],
+          "joinery_techniques": [
+            "Dovetail joints",
+            "Mortise and tenon"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Precision cutting"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The edges of the marble countertops and cabinetry are cleanly cut and aligned with high accuracy.",
+          "surface_quality": "High - The marble surfaces are polished to a high gloss, and the cabinetry has a smooth, blemish-free finish.",
+          "attention_to_detail": "High - The alignment of the cabinetry, the seamless integration of the island, and the precise placement of the lighting fixtures demonstrate meticulous attention to detail."
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Large central island",
+            "Ample storage space",
+            "Under-cabinet lighting",
+            "Pendant lighting"
+          ],
+          "aesthetic_features": [
+            "Marble countertops with intricate veining",
+            "Glass-fronted cabinetry",
+            "Minimalist design with clean lines",
+            "Modern pendant lighting"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This modern kitchen showcases the seamless integration of high-quality materials and precise craftsmanship. The marble countertops and cabinetry, combined with modern lighting, create a luxurious and functional space.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Modern kitchen",
+          "Marble countertops",
+          "Central island",
+          "Cabinetry",
+          "Precision craftsmanship",
+          "Modern design"
+        ],
+        "timestamp": "2026-01-07T05:59:41.265242",
+        "file_size": 118768
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.27.jpeg",
+      "timestamp": "2026-01-07T06:00:01.338811",
+      "file_size": 127037,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.41.27.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A modern bedroom with a custom-built headboard, integrated lighting, and storage solutions",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Laminate",
+            "Fabric",
+            "LED lighting"
+          ],
+          "joinery_techniques": [
+            "Dowel joints",
+            "Screw and glue joints"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Panel construction"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - Clean edges, precise alignment of panels and lighting fixtures",
+          "surface_quality": "High - Smooth finishes on all surfaces, no visible imperfections",
+          "attention_to_detail": "High - Intricate design elements, well-aligned fabric panels, and integrated lighting"
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Integrated lighting",
+            "Storage drawers",
+            "Headboard with shelving"
+          ],
+          "aesthetic_features": [
+            "Wooden finish",
+            "Fabric panels",
+            "LED backlighting"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This modern bedroom setup showcases a custom-built headboard with integrated LED lighting and fabric panels, complemented by sleek storage drawers. The design emphasizes both functionality and aesthetic appeal, making it a standout piece in contemporary interior design.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Modern bedroom",
+          "Custom headboard",
+          "Integrated lighting",
+          "Fabric panels",
+          "Storage solutions"
+        ],
+        "timestamp": "2026-01-07T06:00:01.338811",
+        "file_size": 127037
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.28 (1).jpeg",
+      "timestamp": "2026-01-07T06:00:11.171976",
+      "file_size": 72068,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.41.28 (1).jpeg",
+        "image_type": "Work-in-progress",
+        "primary_subject": "Custom built-in wardrobe with open shelving and drawer units",
+        "completion_stage": "Assembly",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "MDF",
+            "White laminate",
+            "Wooden frame"
+          ],
+          "joinery_techniques": [
+            "Butt joints",
+            "Dowel joints"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Pre-fabricated panels"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "Medium - The alignment of the panels and doors is fairly straight, but some minor gaps are visible.",
+          "surface_quality": "Medium - The plywood surfaces are smooth but show some minor imperfections and tool marks.",
+          "attention_to_detail": "Medium - The shelving and drawer units are well-aligned, but some finishing touches are still needed."
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Open shelving",
+            "Drawer units",
+            "Modular design"
+          ],
+          "aesthetic_features": [
+            "Clean lines",
+            "Minimalist appearance",
+            "Neutral color palette"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Process",
+          "accompanying_text": "This image showcases a custom-built wardrobe in the assembly stage, featuring open shelving and drawer units. The use of plywood and MDF provides a sturdy and modern look, with attention to modular design for easy assembly.",
+          "quality_rating": 7
+        },
+        "keywords": [
+          "wardrobe",
+          "plywood",
+          "MDF",
+          "modular design",
+          "custom furniture",
+          "built-in storage"
+        ],
+        "timestamp": "2026-01-07T06:00:11.171976",
+        "file_size": 72068
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.28.jpeg",
+      "timestamp": "2026-01-07T06:00:23.277417",
+      "file_size": 63648,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.41.28.jpeg",
+        "image_type": "Work-in-progress",
+        "primary_subject": "Unfinished wooden shelving unit with multiple compartments and shelves",
+        "completion_stage": "Assembly",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Wooden battens"
+          ],
+          "joinery_techniques": [
+            "Butt joints",
+            "Nailing"
+          ],
+          "construction_methods": [
+            "Framing",
+            "Shelf assembly"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "Medium - The shelves appear to be aligned but some edges show slight irregularities",
+          "surface_quality": "Medium - The plywood surfaces are smooth but not yet finished, showing raw edges and some visible nail holes",
+          "attention_to_detail": "Medium - The assembly is structurally sound but lacks finishing touches and refinements"
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Modular shelving",
+            "Open compartments",
+            "Adjustable shelving"
+          ],
+          "aesthetic_features": [
+            "Clean lines",
+            "Minimalist design",
+            "Geometric structure"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Process",
+          "accompanying_text": "This image showcases a work-in-progress shelving unit made from plywood and wooden battens. The design features multiple compartments and shelves, highlighting the assembly stage before finishing touches are applied.",
+          "quality_rating": 6
+        },
+        "keywords": [
+          "shelving unit",
+          "plywood",
+          "wooden battens",
+          "modern design",
+          "work-in-progress",
+          "modular shelving",
+          "DIY project"
+        ],
+        "timestamp": "2026-01-07T06:00:23.277417",
+        "file_size": 63648
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.29 (1).jpeg",
+      "timestamp": "2026-01-07T06:00:44.792721",
+      "file_size": 92113,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.41.29 (1).jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A bedroom with custom-built furniture including a bed frame, wardrobe, and desk setup",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Melamine",
+            "Wood veneer",
+            "Metal handles"
+          ],
+          "joinery_techniques": [
+            "Dowel joinery",
+            "Pocket hole joinery"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Panel construction"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The alignment of the wardrobe doors and desk panels is precise, with minimal gaps and flush surfaces.",
+          "surface_quality": "High - The surfaces are smooth, with no visible imperfections or rough edges.",
+          "attention_to_detail": "High - The use of matching handles and the integration of the desk with the wardrobe show careful planning and execution."
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Built-in storage",
+            "Integrated desk",
+            "Ergonomic chair placement"
+          ],
+          "aesthetic_features": [
+            "Minimalist design",
+            "Neutral color palette",
+            "Clean lines"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This modern bedroom setup showcases custom-built furniture with a focus on functionality and sleek design. The integrated wardrobe and desk unit maximize space utilization, while the smooth finishes and precise joinery highlight exceptional craftsmanship.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Custom furniture",
+          "Bedroom design",
+          "Modern joinery",
+          "Built-in storage",
+          "Modular construction"
+        ],
+        "timestamp": "2026-01-07T06:00:44.792721",
+        "file_size": 92113
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.29 (2).jpeg",
+      "timestamp": "2026-01-07T06:00:56.181455",
+      "file_size": 147081,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.41.29 (2).jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A bedroom with built-in wardrobes, a desk, and a chair",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Melamine",
+            "Wood veneer",
+            "Metal hardware"
+          ],
+          "joinery_techniques": [
+            "Dowel joints",
+            "Screw joinery",
+            "Pocket hole joinery"
+          ],
+          "construction_methods": [
+            "Modular construction",
+            "Frameless cabinetry",
+            "Panelized assembly"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The alignment of the wardrobe doors and drawers is precise, with minimal gaps and flush surfaces.",
+          "surface_quality": "High - The surfaces are smooth, with no visible imperfections or rough edges.",
+          "attention_to_detail": "High - The attention to detail is evident in the consistent spacing of handles and the seamless integration of the desk and wardrobe units."
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Built-in wardrobes",
+            "Desk with storage",
+            "Ergonomic chair integration",
+            "Modular storage solutions"
+          ],
+          "aesthetic_features": [
+            "Sleek, minimalist design",
+            "Glass paneling",
+            "Uniform handle design",
+            "Neutral color palette"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This modern bedroom setup showcases a seamless integration of built-in wardrobes and a functional desk area. The use of high-quality materials and precise craftsmanship ensures both durability and aesthetic appeal.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Built-in wardrobes",
+          "Modern bedroom design",
+          "Modular furniture",
+          "Ergonomic workspace",
+          "High-quality craftsmanship"
+        ],
+        "timestamp": "2026-01-07T06:00:56.181455",
+        "file_size": 147081
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.29.jpeg",
+      "timestamp": "2026-01-07T06:01:05.292678",
+      "file_size": 75020,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.41.29.jpeg",
+        "image_type": "Work-in-progress",
+        "primary_subject": "Custom kitchen cabinetry and shelving unit under construction",
+        "completion_stage": "Assembly",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "MDF",
+            "Paint",
+            "Glass",
+            "Metal hardware"
+          ],
+          "joinery_techniques": [
+            "Dado joints",
+            "Rabbet joints"
+          ],
+          "construction_methods": [
+            "Framing",
+            "Panel installation",
+            "Cabinet assembly"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "Medium - [The alignment of the panels and doors appears mostly accurate, but some minor adjustments may be needed for perfect fit.]",
+          "surface_quality": "Medium - [The surfaces are smooth but show some minor imperfections and areas needing touch-up.]",
+          "attention_to_detail": "Medium - [The attention to detail is evident in the joinery and alignment, but some finishing touches are still required.]"
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Adjustable shelving",
+            "Storage cabinets",
+            "Integrated countertop"
+          ],
+          "aesthetic_features": [
+            "Clean lines",
+            "Minimalist design",
+            "Color contrast"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Process",
+          "accompanying_text": "This image showcases a custom kitchen cabinetry and shelving unit in the assembly stage. The project highlights the use of modern design elements and precise joinery techniques to create functional and aesthetically pleasing storage solutions.",
+          "quality_rating": 7
+        },
+        "keywords": [
+          "kitchen cabinetry",
+          "custom shelving",
+          "modern design",
+          "joinery techniques",
+          "work-in-progress"
+        ],
+        "timestamp": "2026-01-07T06:01:05.292678",
+        "file_size": 75020
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.30 (1).jpeg",
+      "timestamp": "2026-01-07T06:01:25.043238",
+      "file_size": 174605,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.41.30 (1).jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A completed bedroom setup featuring a built-in bed with storage drawers, a window, and a small desk with a chair",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Melamine",
+            "Wood veneer",
+            "Fabric"
+          ],
+          "joinery_techniques": [
+            "Dowel joints",
+            "Screw fasteners"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Furniture joinery"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The alignment of the bed frame and drawers is precise, with no visible gaps or misalignments.",
+          "surface_quality": "High - The surfaces are smooth and well-finished, with no visible imperfections or rough edges.",
+          "attention_to_detail": "High - The drawers have flush handles, and the overall design is cohesive and well-executed."
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Built-in storage drawers",
+            "Space-saving design",
+            "Integrated window seating"
+          ],
+          "aesthetic_features": [
+            "Clean lines",
+            "Neutral color palette",
+            "Minimalist design"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This modern bedroom setup showcases a built-in bed with integrated storage drawers, maximizing space efficiency. The clean lines and neutral color palette create a serene and functional living area.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Built-in bed",
+          "Modern bedroom",
+          "Space-saving design",
+          "Storage drawers",
+          "Minimalist design"
+        ],
+        "timestamp": "2026-01-07T06:01:25.043238",
+        "file_size": 174605
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.30.jpeg",
+      "timestamp": "2026-01-07T06:01:34.786956",
+      "file_size": 69450,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.41.30.jpeg",
+        "image_type": "Work-in-progress",
+        "primary_subject": "Custom kitchen cabinetry and shelving unit under construction",
+        "completion_stage": "Assembly",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "MDF",
+            "Paint",
+            "Wood veneer",
+            "Glass"
+          ],
+          "joinery_techniques": [
+            "Dowel joints",
+            "Screws",
+            "Adhesives"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Edge banding",
+            "Surface finishing"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "Medium - [The alignment of the cabinets and shelves appears to be generally well-aligned, though some areas show minor misalignments.]",
+          "surface_quality": "Medium - [The surfaces are mostly smooth, but some areas show visible imperfections and unfinished edges.]",
+          "attention_to_detail": "Medium - [The attention to detail is evident in the overall structure, but some finishing touches and refinements are still needed.]"
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Modular storage",
+            "Open shelving",
+            "Integrated countertop"
+          ],
+          "aesthetic_features": [
+            "Clean lines",
+            "Minimalist design",
+            "Two-tone color scheme"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Process",
+          "accompanying_text": "This image showcases a custom kitchen cabinetry and shelving unit in the assembly stage. The design features a modern aesthetic with a two-tone color scheme and modular storage solutions. The project highlights the precision and attention to detail in carpentry work.",
+          "quality_rating": 7
+        },
+        "keywords": [
+          "kitchen cabinetry",
+          "modular shelving",
+          "modern design",
+          "carpentry",
+          "work-in-progress"
+        ],
+        "timestamp": "2026-01-07T06:01:34.786956",
+        "file_size": 69450
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.31 (1).jpeg",
+      "timestamp": "2026-01-07T06:01:45.131730",
+      "file_size": 99669,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.41.31 (1).jpeg",
+        "image_type": "Work-in-progress",
+        "primary_subject": "Custom kitchen cabinetry and shelving installation",
+        "completion_stage": "Assembly",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "MDF",
+            "Paint",
+            "Wooden dowels",
+            "Screws"
+          ],
+          "joinery_techniques": [
+            "Dowel joinery",
+            "Screw joinery"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "On-site fitting"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "Medium - [The alignment of the cabinets and shelves appears to be well-planned but some minor adjustments might be needed for perfect fitment.]",
+          "surface_quality": "Medium - [The surfaces are smooth but some finishing touches are still required.]",
+          "attention_to_detail": "High - [The careful placement of electrical wiring and the neatness of the assembly indicate a high level of attention to detail.]"
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Modular storage",
+            "Integrated electrical wiring",
+            "Adjustable shelving"
+          ],
+          "aesthetic_features": [
+            "Clean lines",
+            "Monochromatic color scheme",
+            "Minimalist design"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Process",
+          "accompanying_text": "This image showcases the assembly stage of a custom kitchen cabinetry project. The focus is on the modular design and precise fitting of the components, highlighting the integration of electrical wiring for future lighting fixtures.",
+          "quality_rating": 7
+        },
+        "keywords": [
+          "Kitchen cabinetry",
+          "Modular design",
+          "Custom shelving",
+          "Modern style",
+          "Work-in-progress"
+        ],
+        "timestamp": "2026-01-07T06:01:45.131730",
+        "file_size": 99669
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.07.07.jpeg",
+      "timestamp": "2026-01-07T06:06:28.875770",
+      "file_size": 170784,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.07.07.jpeg",
+        "image_type": "Close-up detail",
+        "primary_subject": "Interior cabinetry with open doors, showing shelving and construction details",
+        "completion_stage": "Work-in-progress",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Metal hinges",
+            "Wooden shelves"
+          ],
+          "joinery_techniques": [
+            "Butt joint",
+            "Screw joinery"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Pre-fabricated components"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "Medium - [The edges and joints show moderate alignment, with some visible gaps and inconsistencies]",
+          "surface_quality": "Medium - [The surfaces are relatively smooth but show some imperfections and rough spots]",
+          "attention_to_detail": "Medium - [The construction appears functional but lacks fine detailing and finishing touches]"
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Adjustable shelving",
+            "Modular design"
+          ],
+          "aesthetic_features": [
+            "Clean lines",
+            "Minimalist appearance"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Process",
+          "accompanying_text": "This image showcases the construction phase of a modern modular cabinetry system. The focus is on the structural integrity and assembly process, highlighting the use of plywood and metal hinges.",
+          "quality_rating": 6
+        },
+        "keywords": [
+          "Cabinetry",
+          "Modular design",
+          "Work-in-progress",
+          "Interior construction",
+          "Plywood",
+          "Modern style"
+        ],
+        "timestamp": "2026-01-07T06:06:28.875770",
+        "file_size": 170784
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.31.jpeg",
+      "timestamp": "2026-01-07T06:06:38.155125",
+      "file_size": 100938,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.41.31.jpeg",
+        "image_type": "Work-in-progress",
+        "primary_subject": "Kitchen cabinetry installation with visible wiring and unfinished sections",
+        "completion_stage": "Assembly",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Paint",
+            "Electrical wiring"
+          ],
+          "joinery_techniques": [
+            "Butt joints",
+            "Screwed joints"
+          ],
+          "construction_methods": [
+            "Framing",
+            "Cabinet assembly"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "Medium - The cabinetry appears to be aligned well, but some sections show gaps and uneven edges.",
+          "surface_quality": "Medium - The surfaces are smooth but show signs of handling and minor imperfections.",
+          "attention_to_detail": "Medium - The installation is functional but lacks fine detailing and finishing touches."
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Storage cabinets",
+            "Electrical outlets"
+          ],
+          "aesthetic_features": [
+            "Minimalist design",
+            "Monochromatic color scheme"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Process",
+          "accompanying_text": "This image showcases the assembly stage of a modern kitchen cabinetry installation. The focus is on the structural framework and initial electrical setup, highlighting the foundational work before final finishing touches.",
+          "quality_rating": 6
+        },
+        "keywords": [
+          "kitchen cabinetry",
+          "modern design",
+          "work-in-progress",
+          "cabinet assembly",
+          "electrical installation"
+        ],
+        "timestamp": "2026-01-07T06:06:38.155125",
+        "file_size": 100938
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.32.jpeg",
+      "timestamp": "2026-01-07T06:06:47.720226",
+      "file_size": 109429,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.41.32.jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A completed wooden entertainment unit with a combination of cabinets, drawers, and an open display section",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Veneer",
+            "Glass",
+            "Metal hinges and handles"
+          ],
+          "joinery_techniques": [
+            "Dowel joints",
+            "Screws"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Laminate finishing"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The alignment of doors and drawers is consistent, and the edges are cleanly cut and joined.",
+          "surface_quality": "High - The veneer finish is smooth and reflective, with minimal visible imperfections.",
+          "attention_to_detail": "High - The use of matching handles and hinges, as well as the alignment of the glass display section, indicates careful attention to detail."
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Storage cabinets",
+            "Drawers",
+            "Open display section",
+            "TV stand"
+          ],
+          "aesthetic_features": [
+            "Glass display section",
+            "Sleek handles",
+            "High-gloss finish",
+            "Curved design elements"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This modern wooden entertainment unit showcases a blend of functionality and style. Featuring a high-gloss finish, ample storage options, and a dedicated TV stand, it is designed to enhance any living space with its sleek and contemporary appeal.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "Entertainment unit",
+          "Wooden furniture",
+          "Modern design",
+          "High-gloss finish",
+          "TV stand",
+          "Storage solutions"
+        ],
+        "timestamp": "2026-01-07T06:06:47.720226",
+        "file_size": 109429
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.33 (1).jpeg",
+      "timestamp": "2026-01-07T06:07:06.656464",
+      "file_size": 75125,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.41.33 (1).jpeg",
+        "image_type": "Full project view",
+        "primary_subject": "A wooden door with intricate paneling and a traditional design",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Solid wood",
+            "Wood veneer"
+          ],
+          "joinery_techniques": [
+            "Mortise and tenon",
+            "Dovetail joints"
+          ],
+          "construction_methods": [
+            "Frame and panel construction",
+            "Edge gluing"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The door panels are evenly spaced and aligned, indicating precise measurements and cuts.",
+          "surface_quality": "High - The wood surface is smooth with minimal visible imperfections, suggesting thorough sanding and finishing.",
+          "attention_to_detail": "High - The intricate paneling and symmetrical design showcase a high level of craftsmanship and attention to detail."
+        },
+        "design_elements": {
+          "style": "Traditional",
+          "functional_features": [
+            "Durable construction",
+            "Secure door hardware"
+          ],
+          "aesthetic_features": [
+            "Intricate paneling",
+            "Symmetrical design",
+            "Natural wood finish"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Hero",
+          "accompanying_text": "This traditional wooden door exemplifies high craftsmanship with its intricate paneling and smooth finish. The use of solid wood and precise joinery techniques ensures both durability and aesthetic appeal.",
+          "quality_rating": 9
+        },
+        "keywords": [
+          "wooden door",
+          "traditional design",
+          "solid wood",
+          "intricate paneling",
+          "craftsmanship",
+          "joinery",
+          "frame and panel construction"
+        ],
+        "timestamp": "2026-01-07T06:07:06.656464",
+        "file_size": 75125
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.33 (2).jpeg",
+      "timestamp": "2026-01-07T06:07:15.015185",
+      "file_size": 132525,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.41.33 (2).jpeg",
+        "image_type": "Close-up detail",
+        "primary_subject": "Wooden cabinetry with multiple compartments and shelves",
+        "completion_stage": "Completed",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Wood veneer",
+            "Metal handles"
+          ],
+          "joinery_techniques": [
+            "Dowel joints",
+            "Screws"
+          ],
+          "construction_methods": [
+            "Modular assembly",
+            "Laminate finishing"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The alignment of the cabinet doors and shelves is precise, with minimal gaps and even spacing.",
+          "surface_quality": "High - The surfaces are smooth and well-finished, with a glossy veneer that reflects light evenly.",
+          "attention_to_detail": "High - The cabinet handles are symmetrically placed, and the edges are cleanly finished."
+        },
+        "design_elements": {
+          "style": "Modern",
+          "functional_features": [
+            "Multiple compartments",
+            "Adjustable shelves",
+            "Metal handles for easy access"
+          ],
+          "aesthetic_features": [
+            "Glossy finish",
+            "Clean lines",
+            "Uniform color scheme"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Detail",
+          "accompanying_text": "This image showcases a meticulously crafted wooden cabinet with a glossy finish, highlighting the precision and attention to detail in its construction. The use of modern joinery techniques and high-quality materials ensures both durability and aesthetic appeal.",
+          "quality_rating": 8
+        },
+        "keywords": [
+          "wooden cabinet",
+          "modern design",
+          "glossy finish",
+          "precision joinery",
+          "modular assembly"
+        ],
+        "timestamp": "2026-01-07T06:07:15.015185",
+        "file_size": 132525
+      }
+    },
+    {
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.33.jpeg",
+      "timestamp": "2026-01-07T06:07:24.993392",
+      "file_size": 85284,
+      "analysis": {
+        "filename": "WhatsApp Image 2026-01-06 at 22.41.33.jpeg",
+        "image_type": "Work-in-progress",
+        "primary_subject": "A wooden cabinet with an upper section featuring three glass-paneled doors and a lower section with two solid doors",
+        "completion_stage": "Finishing",
+        "technical_details": {
+          "materials": [
+            "Plywood",
+            "Wood veneer",
+            "Glass",
+            "Wooden frame"
+          ],
+          "joinery_techniques": [
+            "Dovetail joints",
+            "Miter joints"
+          ],
+          "construction_methods": [
+            "Frame and panel construction",
+            "Glue and clamp assembly"
+          ]
+        },
+        "craftsmanship_quality": {
+          "precision": "High - The alignment of the doors and panels is precise, with minimal gaps and even spacing",
+          "surface_quality": "Medium - The surfaces appear smooth but may require additional sanding and finishing touches",
+          "attention_to_detail": "High - The intricate design of the upper section's arched glass panels and the overall symmetry of the cabinet indicate careful craftsmanship"
+        },
+        "design_elements": {
+          "style": "Traditional",
+          "functional_features": [
+            "Glass-paneled doors for display",
+            "Solid doors for concealed storage"
+          ],
+          "aesthetic_features": [
+            "Arched glass panels",
+            "Wooden trim and detailing"
+          ]
+        },
+        "portfolio_presentation": {
+          "best_use": "Process",
+          "accompanying_text": "This image showcases a traditional wooden cabinet in the finishing stage, featuring intricate glass-paneled doors and solid wood construction. The cabinet exemplifies precision and attention to detail, making it a versatile piece for both display and storage.",
+          "quality_rating": 8
+        },
+        "keywords": [
+          "wooden cabinet",
+          "traditional design",
+          "glass-paneled doors",
+          "craftsmanship",
+          "finishing stage"
+        ],
+        "timestamp": "2026-01-07T06:07:24.993392",
+        "file_size": 85284
+      }
+    }
+  ],
+  "summary_statistics": {
+    "total_images_analyzed": 64,
+    "image_types": {
+      "Full project view": 40,
+      "Close-up detail": 10,
+      "Work-in-progress": 14
+    },
+    "materials_identified": [
+      "Bamboo",
+      "Bamboo/Rattan",
+      "Ceramic tiles",
+      "Concrete",
+      "Drawer slides",
+      "Electrical wiring",
+      "Fabric",
+      "Glass",
+      "Granite",
+      "LED lighting",
+      "LED strip lighting",
+      "Laminate",
+      "Light bulbs",
+      "MDF",
+      "Marble",
+      "Marble countertop",
+      "Marble-patterned panels",
+      "Melamine",
+      "Melamine-faced boards",
+      "Metal",
+      "Metal (for mounting hardware)",
+      "Metal handles",
+      "Metal hardware",
+      "Metal hinges",
+      "Metal hinges and handles",
+      "Metal railings",
+      "Metal wire",
+      "Paint",
+      "Particleboard",
+      "Plants",
+      "Plywood",
+      "Rattan or bamboo",
+      "Screws",
+      "Solid Wood",
+      "Solid wood",
+      "Stainless Steel",
+      "Teak wood",
+      "Thatch",
+      "Tile",
+      "Veneer",
+      "White laminate",
+      "Wicker",
+      "Wicker or rattan",
+      "Wiring",
+      "Wood",
+      "Wood veneer",
+      "Wooden battens",
+      "Wooden dowels",
+      "Wooden drawer slides",
+      "Wooden frame",
+      "Wooden shelves",
+      "bamboo",
+      "burlap fabric",
+      "concrete tiles",
+      "decorative fabric",
+      "fabric",
+      "glass",
+      "hardwood (likely teak or mahogany)",
+      "laminate",
+      "lighting fixtures",
+      "metal",
+      "metal fixtures",
+      "natural fibers",
+      "natural rattan",
+      "plywood",
+      "protective finish",
+      "rattan",
+      "rope",
+      "textile",
+      "thatched palm leaves",
+      "tile",
+      "wicker",
+      "wood",
+      "wood stain",
+      "wooden structural elements"
+    ],
+    "techniques_identified": [
+      "Adhesives",
+      "Bamboo lashing",
+      "Bending",
+      "Bracing",
+      "Butt joint",
+      "Butt joints",
+      "Dado joints",
+      "Dovetail",
+      "Dovetail joints",
+      "Dowel Joints",
+      "Dowel joinery",
+      "Dowel joints",
+      "Hinge attachment",
+      "Interlocking joints",
+      "Knot tying",
+      "Laminating",
+      "Lap joint",
+      "Lashing",
+      "Miter joints",
+      "Mitered joints",
+      "Mortise and Tenon",
+      "Mortise and tenon",
+      "Nailing",
+      "None visible",
+      "Pocket Hole",
+      "Pocket hole joinery",
+      "Pocket holes",
+      "Pocket screws",
+      "Rabbet joints",
+      "Screw and glue joints",
+      "Screw fasteners",
+      "Screw fastenings",
+      "Screw joinery",
+      "Screwed Joints",
+      "Screwed joints",
+      "Screws",
+      "Screws and Bolts",
+      "Screws and fasteners",
+      "Weaving",
+      "Woven construction",
+      "basketry techniques",
+      "braiding",
+      "carved details",
+      "dovetail joints",
+      "dowel joints",
+      "doweling",
+      "dowelling",
+      "interlacing",
+      "knotting",
+      "mortise and tenon",
+      "screw fasteners",
+      "screw fastenings",
+      "screw joinery",
+      "traditional weaving",
+      "weaving"
+    ],
+    "quality_distribution": {
+      "9": 41,
+      "10": 1,
+      "8": 6,
+      "6": 7,
+      "7": 9
+    }
+  },
+  "usage_recommendations": {
+    "website_integration": {
+      "hero_section": [
+        "WhatsApp Image 2026-01-06 at 21.51.22.jpeg"
+      ],
+      "craftsmanship_details": [
+        "WhatsApp Image 2026-01-06 at 21.51.27.jpeg"
+      ],
+      "project_gallery": "All images",
+      "materials_showcase": "Images highlighting specific materials"
+    },
+    "seo_optimization": {
+      "primary_keywords": [
+        "handcrafted",
+        "custom carpentry",
+        "traditional techniques",
+        "fine woodworking"
+      ],
+      "secondary_keywords": [
+        "rattan",
+        "wicker",
+        "wood carving",
+        "heirloom furniture"
+      ],
+      "content_suggestions": [
+        "Highlight traditional techniques and materials",
+        "Emphasize customization capabilities",
+        "Showcase craftsmanship quality and attention to detail"
+      ]
+    }
+  }
+}

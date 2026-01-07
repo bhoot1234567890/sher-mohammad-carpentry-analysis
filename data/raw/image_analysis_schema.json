@@ -1,0 +1,495 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "type": "object",
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "project": {
+          "type": "string"
+        },
+        "created_by": {
+          "type": "string"
+        },
+        "date_created": {
+          "type": "string"
+        },
+        "total_images": {
+          "type": "integer"
+        },
+        "analysis_status": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "analysis_status",
+        "created_by",
+        "date_created",
+        "description",
+        "project",
+        "total_images"
+      ]
+    },
+    "analysis_prompt": {
+      "type": "object",
+      "properties": {
+        "objective": {
+          "type": "string"
+        },
+        "criteria": {
+          "type": "object",
+          "properties": {
+            "image_identification": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "technical_details": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "craftsmanship_quality": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "design_elements": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "project_context": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "aesthetic_evaluation": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "technical_challenges": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "portfolio_presentation": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "aesthetic_evaluation",
+            "craftsmanship_quality",
+            "design_elements",
+            "image_identification",
+            "portfolio_presentation",
+            "project_context",
+            "technical_challenges",
+            "technical_details"
+          ]
+        }
+      },
+      "required": [
+        "criteria",
+        "objective"
+      ]
+    },
+    "images": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "filename": {
+            "type": "string"
+          },
+          "timestamp": {
+            "type": "string"
+          },
+          "file_size": {
+            "type": "integer"
+          },
+          "analysis": {
+            "type": "object",
+            "properties": {
+              "image_type": {
+                "type": "string"
+              },
+              "primary_subject": {
+                "type": "string"
+              },
+              "completion_stage": {
+                "type": "string"
+              },
+              "technical_details": {
+                "type": "object",
+                "properties": {
+                  "materials": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  "joinery_techniques": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  "construction_methods": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  "visible_tools": {
+                    "type": "array"
+                  }
+                },
+                "required": [
+                  "construction_methods",
+                  "joinery_techniques",
+                  "materials"
+                ]
+              },
+              "craftsmanship_quality": {
+                "type": "object",
+                "properties": {
+                  "precision": {
+                    "type": "string"
+                  },
+                  "surface_quality": {
+                    "type": "string"
+                  },
+                  "attention_to_detail": {
+                    "type": "string"
+                  },
+                  "structural_integrity": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "attention_to_detail",
+                  "precision",
+                  "surface_quality"
+                ]
+              },
+              "design_elements": {
+                "type": "object",
+                "properties": {
+                  "style": {
+                    "type": "string"
+                  },
+                  "functional_features": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  "aesthetic_features": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  "color_finish": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "aesthetic_features",
+                  "functional_features",
+                  "style"
+                ]
+              },
+              "project_context": {
+                "type": "object",
+                "properties": {
+                  "project_type": {
+                    "type": "string"
+                  },
+                  "scale": {
+                    "type": "string"
+                  },
+                  "intended_use": {
+                    "type": "string"
+                  },
+                  "customization_elements": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": [
+                  "customization_elements",
+                  "intended_use",
+                  "project_type",
+                  "scale"
+                ]
+              },
+              "aesthetic_evaluation": {
+                "type": "object",
+                "properties": {
+                  "visual_appeal": {
+                    "type": "string"
+                  },
+                  "craftsmanship_showcase": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  "unique_selling_points": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  "potential_client_appeal": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "craftsmanship_showcase",
+                  "potential_client_appeal",
+                  "unique_selling_points",
+                  "visual_appeal"
+                ]
+              },
+              "technical_challenges": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "portfolio_presentation": {
+                "type": "object",
+                "properties": {
+                  "best_use": {
+                    "type": "string"
+                  },
+                  "accompanying_text": {
+                    "type": "string"
+                  },
+                  "focus_areas": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  "quality_rating": {
+                    "type": "integer"
+                  }
+                },
+                "required": [
+                  "accompanying_text",
+                  "best_use",
+                  "quality_rating"
+                ]
+              },
+              "filename": {
+                "type": "string"
+              },
+              "keywords": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "timestamp": {
+                "type": "string"
+              },
+              "file_size": {
+                "type": "integer"
+              }
+            },
+            "required": [
+              "completion_stage",
+              "craftsmanship_quality",
+              "design_elements",
+              "image_type",
+              "portfolio_presentation",
+              "primary_subject",
+              "technical_details"
+            ]
+          },
+          "keywords": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "recommended_usage": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "analysis",
+          "file_size",
+          "filename",
+          "timestamp"
+        ]
+      }
+    },
+    "summary_statistics": {
+      "type": "object",
+      "properties": {
+        "total_images_analyzed": {
+          "type": "integer"
+        },
+        "image_types": {
+          "type": "object",
+          "properties": {
+            "Full project view": {
+              "type": "integer"
+            },
+            "Close-up detail": {
+              "type": "integer"
+            },
+            "Work-in-progress": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "Close-up detail",
+            "Full project view",
+            "Work-in-progress"
+          ]
+        },
+        "materials_identified": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "techniques_identified": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "quality_distribution": {
+          "type": "object",
+          "properties": {
+            "9": {
+              "type": "integer"
+            },
+            "10": {
+              "type": "integer"
+            },
+            "8": {
+              "type": "integer"
+            },
+            "6": {
+              "type": "integer"
+            },
+            "7": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "10",
+            "6",
+            "7",
+            "8",
+            "9"
+          ]
+        }
+      },
+      "required": [
+        "image_types",
+        "materials_identified",
+        "quality_distribution",
+        "techniques_identified",
+        "total_images_analyzed"
+      ]
+    },
+    "usage_recommendations": {
+      "type": "object",
+      "properties": {
+        "website_integration": {
+          "type": "object",
+          "properties": {
+            "hero_section": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "craftsmanship_details": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "project_gallery": {
+              "type": "string"
+            },
+            "materials_showcase": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "craftsmanship_details",
+            "hero_section",
+            "materials_showcase",
+            "project_gallery"
+          ]
+        },
+        "seo_optimization": {
+          "type": "object",
+          "properties": {
+            "primary_keywords": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "secondary_keywords": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "content_suggestions": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "content_suggestions",
+            "primary_keywords",
+            "secondary_keywords"
+          ]
+        }
+      },
+      "required": [
+        "seo_optimization",
+        "website_integration"
+      ]
+    }
+  },
+  "required": [
+    "analysis_prompt",
+    "images",
+    "metadata",
+    "summary_statistics",
+    "usage_recommendations"
+  ]
+}

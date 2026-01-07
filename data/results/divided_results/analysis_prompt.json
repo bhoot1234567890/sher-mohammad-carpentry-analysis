@@ -1,0 +1,52 @@
+{
+  "objective": "Analyze carpentry portfolio images for website display",
+  "criteria": {
+    "image_identification": [
+      "image_type",
+      "primary_subject",
+      "completion_stage"
+    ],
+    "technical_details": [
+      "materials",
+      "joinery_techniques",
+      "construction_methods",
+      "visible_tools"
+    ],
+    "craftsmanship_quality": [
+      "precision",
+      "surface_quality",
+      "attention_to_detail",
+      "structural_integrity"
+    ],
+    "design_elements": [
+      "style",
+      "functional_features",
+      "aesthetic_features",
+      "color_finish"
+    ],
+    "project_context": [
+      "project_type",
+      "scale",
+      "intended_use",
+      "customization_elements"
+    ],
+    "aesthetic_evaluation": [
+      "visual_appeal",
+      "craftsmanship_showcase",
+      "unique_selling_points",
+      "potential_client_appeal"
+    ],
+    "technical_challenges": [
+      "complex_joinery",
+      "material_challenges",
+      "precision_requirements",
+      "design_complexity"
+    ],
+    "portfolio_presentation": [
+      "best_use",
+      "accompanying_text",
+      "focus_areas",
+      "quality_rating"
+    ]
+  }
+}

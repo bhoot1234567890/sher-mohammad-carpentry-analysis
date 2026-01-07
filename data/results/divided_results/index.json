@@ -1,0 +1,459 @@
+{
+  "total_images": 64,
+  "files_created": {
+    "metadata": "metadata.json",
+    "analysis_prompt": "analysis_prompt.json",
+    "images_summary": "images_summary.json",
+    "individual_images": "images/ directory (64 files)"
+  },
+  "summary": [
+    {
+      "index": 1,
+      "filename": "WhatsApp Image 2026-01-06 at 21.51.22.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.51.22.json",
+      "timestamp": "2024-01-07T12:00:00Z",
+      "file_size": 241434
+    },
+    {
+      "index": 2,
+      "filename": "WhatsApp Image 2026-01-06 at 21.51.27.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.51.27.json",
+      "timestamp": "2024-01-07T12:05:00Z",
+      "file_size": 237242
+    },
+    {
+      "index": 3,
+      "filename": "WhatsApp Image 2026-01-06 at 21.51.32.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.51.32.json",
+      "timestamp": "2026-01-07T05:26:41.312474",
+      "file_size": 180497
+    },
+    {
+      "index": 4,
+      "filename": "WhatsApp Image 2026-01-06 at 21.51.37.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.51.37.json",
+      "timestamp": "2026-01-07T05:26:52.061141",
+      "file_size": 338093
+    },
+    {
+      "index": 5,
+      "filename": "WhatsApp Image 2026-01-06 at 21.51.40.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.51.40.json",
+      "timestamp": "2026-01-07T05:27:02.383501",
+      "file_size": 217617
+    },
+    {
+      "index": 6,
+      "filename": "WhatsApp Image 2026-01-06 at 21.51.45.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.51.45.json",
+      "timestamp": "2026-01-07T05:27:24.045650",
+      "file_size": 220847
+    },
+    {
+      "index": 7,
+      "filename": "WhatsApp Image 2026-01-06 at 21.51.50.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.51.50.json",
+      "timestamp": "2026-01-07T05:27:34.353536",
+      "file_size": 209916
+    },
+    {
+      "index": 8,
+      "filename": "WhatsApp Image 2026-01-06 at 21.51.51.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.51.51.json",
+      "timestamp": "2026-01-07T05:27:44.592393",
+      "file_size": 220161
+    },
+    {
+      "index": 9,
+      "filename": "WhatsApp Image 2026-01-06 at 21.51.56.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.51.56.json",
+      "timestamp": "2026-01-07T05:28:05.380156",
+      "file_size": 204411
+    },
+    {
+      "index": 10,
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.00.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.52.00.json",
+      "timestamp": "2026-01-07T05:28:15.106043",
+      "file_size": 220307
+    },
+    {
+      "index": 11,
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.04.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.52.04.json",
+      "timestamp": "2026-01-07T05:28:25.718747",
+      "file_size": 193765
+    },
+    {
+      "index": 12,
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.07.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.52.07.json",
+      "timestamp": "2026-01-07T05:28:47.320122",
+      "file_size": 218808
+    },
+    {
+      "index": 13,
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.11.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.52.11.json",
+      "timestamp": "2026-01-07T05:28:57.563144",
+      "file_size": 232151
+    },
+    {
+      "index": 14,
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.14.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.52.14.json",
+      "timestamp": "2026-01-07T05:29:07.909072",
+      "file_size": 118160
+    },
+    {
+      "index": 15,
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.17.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.52.17.json",
+      "timestamp": "2026-01-07T05:29:27.852389",
+      "file_size": 208626
+    },
+    {
+      "index": 16,
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.19.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.52.19.json",
+      "timestamp": "2026-01-07T05:29:38.216477",
+      "file_size": 117546
+    },
+    {
+      "index": 17,
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.22.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.52.22.json",
+      "timestamp": "2026-01-07T05:29:49.173516",
+      "file_size": 186168
+    },
+    {
+      "index": 18,
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.25.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.52.25.json",
+      "timestamp": "2026-01-07T05:30:09.289274",
+      "file_size": 206175
+    },
+    {
+      "index": 19,
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.27.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.52.27.json",
+      "timestamp": "2026-01-07T05:30:20.178087",
+      "file_size": 180295
+    },
+    {
+      "index": 20,
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.30.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.52.30.json",
+      "timestamp": "2026-01-07T05:30:31.762188",
+      "file_size": 205214
+    },
+    {
+      "index": 21,
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.46.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.52.46.json",
+      "timestamp": "2026-01-07T05:30:55.118697",
+      "file_size": 166038
+    },
+    {
+      "index": 22,
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.51.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.52.51.json",
+      "timestamp": "2026-01-07T05:31:07.304915",
+      "file_size": 156056
+    },
+    {
+      "index": 23,
+      "filename": "WhatsApp Image 2026-01-06 at 21.52.58.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.52.58.json",
+      "timestamp": "2026-01-07T05:31:18.056811",
+      "file_size": 187598
+    },
+    {
+      "index": 24,
+      "filename": "WhatsApp Image 2026-01-06 at 21.53.04.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.53.04.json",
+      "timestamp": "2026-01-07T05:31:39.966809",
+      "file_size": 162732
+    },
+    {
+      "index": 25,
+      "filename": "WhatsApp Image 2026-01-06 at 21.54.13.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.54.13.json",
+      "timestamp": "2026-01-07T05:31:50.316150",
+      "file_size": 172299
+    },
+    {
+      "index": 26,
+      "filename": "WhatsApp Image 2026-01-06 at 21.54.40.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.54.40.json",
+      "timestamp": "2026-01-07T05:32:01.575487",
+      "file_size": 209335
+    },
+    {
+      "index": 27,
+      "filename": "WhatsApp Image 2026-01-06 at 21.54.41 (1).jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.54.41_(1).json",
+      "timestamp": "2026-01-07T05:32:22.566360",
+      "file_size": 221144
+    },
+    {
+      "index": 28,
+      "filename": "WhatsApp Image 2026-01-06 at 21.54.41 (2).jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.54.41_(2).json",
+      "timestamp": "2026-01-07T05:32:31.373313",
+      "file_size": 193611
+    },
+    {
+      "index": 29,
+      "filename": "WhatsApp Image 2026-01-06 at 21.54.41.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.54.41.json",
+      "timestamp": "2026-01-07T05:32:41.512382",
+      "file_size": 174882
+    },
+    {
+      "index": 30,
+      "filename": "WhatsApp Image 2026-01-06 at 21.54.42.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.54.42.json",
+      "timestamp": "2026-01-07T05:33:02.560180",
+      "file_size": 194665
+    },
+    {
+      "index": 31,
+      "filename": "WhatsApp Image 2026-01-06 at 21.54.50 (1).jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.54.50_(1).json",
+      "timestamp": "2026-01-07T05:33:15.572924",
+      "file_size": 195289
+    },
+    {
+      "index": 32,
+      "filename": "WhatsApp Image 2026-01-06 at 21.54.50.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_21.54.50.json",
+      "timestamp": "2026-01-07T05:33:25.239141",
+      "file_size": 221725
+    },
+    {
+      "index": 33,
+      "filename": "WhatsApp Image 2026-01-06 at 22.02.05.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.02.05.json",
+      "timestamp": "2026-01-07T05:55:56.513301",
+      "file_size": 84255
+    },
+    {
+      "index": 34,
+      "filename": "WhatsApp Image 2026-01-06 at 22.02.07.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.02.07.json",
+      "timestamp": "2026-01-07T05:56:06.304660",
+      "file_size": 79851
+    },
+    {
+      "index": 35,
+      "filename": "WhatsApp Image 2026-01-06 at 22.07.04.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.07.04.json",
+      "timestamp": "2026-01-07T05:56:17.470822",
+      "file_size": 191500
+    },
+    {
+      "index": 36,
+      "filename": "WhatsApp Image 2026-01-06 at 22.07.05.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.07.05.json",
+      "timestamp": "2026-01-07T05:56:40.915872",
+      "file_size": 247282
+    },
+    {
+      "index": 37,
+      "filename": "WhatsApp Image 2026-01-06 at 22.07.08.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.07.08.json",
+      "timestamp": "2026-01-07T05:56:56.895862",
+      "file_size": 205752
+    },
+    {
+      "index": 38,
+      "filename": "WhatsApp Image 2026-01-06 at 22.07.10.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.07.10.json",
+      "timestamp": "2026-01-07T05:57:17.678442",
+      "file_size": 234148
+    },
+    {
+      "index": 39,
+      "filename": "WhatsApp Image 2026-01-06 at 22.07.12.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.07.12.json",
+      "timestamp": "2026-01-07T05:57:30.234537",
+      "file_size": 164075
+    },
+    {
+      "index": 40,
+      "filename": "WhatsApp Image 2026-01-06 at 22.07.13.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.07.13.json",
+      "timestamp": "2026-01-07T05:57:39.901332",
+      "file_size": 121902
+    },
+    {
+      "index": 41,
+      "filename": "WhatsApp Image 2026-01-06 at 22.07.15.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.07.15.json",
+      "timestamp": "2026-01-07T05:57:59.562641",
+      "file_size": 111911
+    },
+    {
+      "index": 42,
+      "filename": "WhatsApp Image 2026-01-06 at 22.07.17.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.07.17.json",
+      "timestamp": "2026-01-07T05:58:07.261490",
+      "file_size": 78215
+    },
+    {
+      "index": 43,
+      "filename": "WhatsApp Image 2026-01-06 at 22.07.20.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.07.20.json",
+      "timestamp": "2026-01-07T05:58:18.197206",
+      "file_size": 108636
+    },
+    {
+      "index": 44,
+      "filename": "WhatsApp Image 2026-01-06 at 22.38.28 (1).jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.38.28_(1).json",
+      "timestamp": "2026-01-07T05:58:37.960485",
+      "file_size": 56128
+    },
+    {
+      "index": 45,
+      "filename": "WhatsApp Image 2026-01-06 at 22.38.28.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.38.28.json",
+      "timestamp": "2026-01-07T05:58:45.859072",
+      "file_size": 62080
+    },
+    {
+      "index": 46,
+      "filename": "WhatsApp Image 2026-01-06 at 22.38.29 (1).jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.38.29_(1).json",
+      "timestamp": "2026-01-07T05:58:55.842233",
+      "file_size": 105749
+    },
+    {
+      "index": 47,
+      "filename": "WhatsApp Image 2026-01-06 at 22.38.29.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.38.29.json",
+      "timestamp": "2026-01-07T05:59:19.639600",
+      "file_size": 76884
+    },
+    {
+      "index": 48,
+      "filename": "WhatsApp Image 2026-01-06 at 22.38.30 (1).jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.38.30_(1).json",
+      "timestamp": "2026-01-07T05:59:30.083307",
+      "file_size": 143372
+    },
+    {
+      "index": 49,
+      "filename": "WhatsApp Image 2026-01-06 at 22.38.30.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.38.30.json",
+      "timestamp": "2026-01-07T05:59:41.265242",
+      "file_size": 118768
+    },
+    {
+      "index": 50,
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.27.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.41.27.json",
+      "timestamp": "2026-01-07T06:00:01.338811",
+      "file_size": 127037
+    },
+    {
+      "index": 51,
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.28 (1).jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.41.28_(1).json",
+      "timestamp": "2026-01-07T06:00:11.171976",
+      "file_size": 72068
+    },
+    {
+      "index": 52,
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.28.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.41.28.json",
+      "timestamp": "2026-01-07T06:00:23.277417",
+      "file_size": 63648
+    },
+    {
+      "index": 53,
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.29 (1).jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.41.29_(1).json",
+      "timestamp": "2026-01-07T06:00:44.792721",
+      "file_size": 92113
+    },
+    {
+      "index": 54,
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.29 (2).jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.41.29_(2).json",
+      "timestamp": "2026-01-07T06:00:56.181455",
+      "file_size": 147081
+    },
+    {
+      "index": 55,
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.29.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.41.29.json",
+      "timestamp": "2026-01-07T06:01:05.292678",
+      "file_size": 75020
+    },
+    {
+      "index": 56,
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.30 (1).jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.41.30_(1).json",
+      "timestamp": "2026-01-07T06:01:25.043238",
+      "file_size": 174605
+    },
+    {
+      "index": 57,
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.30.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.41.30.json",
+      "timestamp": "2026-01-07T06:01:34.786956",
+      "file_size": 69450
+    },
+    {
+      "index": 58,
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.31 (1).jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.41.31_(1).json",
+      "timestamp": "2026-01-07T06:01:45.131730",
+      "file_size": 99669
+    },
+    {
+      "index": 59,
+      "filename": "WhatsApp Image 2026-01-06 at 22.07.07.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.07.07.json",
+      "timestamp": "2026-01-07T06:06:28.875770",
+      "file_size": 170784
+    },
+    {
+      "index": 60,
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.31.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.41.31.json",
+      "timestamp": "2026-01-07T06:06:38.155125",
+      "file_size": 100938
+    },
+    {
+      "index": 61,
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.32.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.41.32.json",
+      "timestamp": "2026-01-07T06:06:47.720226",
+      "file_size": 109429
+    },
+    {
+      "index": 62,
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.33 (1).jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.41.33_(1).json",
+      "timestamp": "2026-01-07T06:07:06.656464",
+      "file_size": 75125
+    },
+    {
+      "index": 63,
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.33 (2).jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.41.33_(2).json",
+      "timestamp": "2026-01-07T06:07:15.015185",
+      "file_size": 132525
+    },
+    {
+      "index": 64,
+      "filename": "WhatsApp Image 2026-01-06 at 22.41.33.jpeg",
+      "output_file": "images/WhatsApp_Image_2026-01-06_at_22.41.33.json",
+      "timestamp": "2026-01-07T06:07:24.993392",
+      "file_size": 85284
+    }
+  ]
+}

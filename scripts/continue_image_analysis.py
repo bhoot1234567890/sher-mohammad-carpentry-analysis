@@ -120,14 +120,18 @@ def analyze_carpentry_image(image_path, filename):
 
 def load_existing_results():
     """Load existing analysis results"""
-    if os.path.exists("image_analysis_results.json"):
-        with open("image_analysis_results.json", "r") as f:
+    results_path = "data/raw/image_analysis_results.json"
+    if os.path.exists(results_path):
+        with open(results_path, "r") as f:
             return json.load(f)
     return None
 
 def save_results(data):
     """Save analysis results"""
-    with open("image_analysis_results.json", "w") as f:
+    results_path = "data/raw/image_analysis_results.json"
+    # Ensure directory exists
+    os.makedirs(os.path.dirname(results_path), exist_ok=True)
+    with open(results_path, "w") as f:
         json.dump(data, f, indent=2)
 
 def update_summary(data):
@@ -193,7 +197,7 @@ def main():
         }
     
     # Get all image files
-    all_image_files = sorted(glob.glob("photos/WhatsApp Image*.jpeg"))
+    all_image_files = sorted(glob.glob("assets/photos/WhatsApp Image*.jpeg"))
     
     # Get already processed files
     processed_files = {img['filename'] for img in existing_data['images']}
@@ -258,7 +262,7 @@ def main():
     
     print(f"\n=== ANALYSIS COMPLETE ===")
     print(f"Total images analyzed: {len(existing_data['images'])}")
-    print(f"Results saved to: image_analysis_results.json")
+    print(f"Results saved to: data/raw/image_analysis_results.json")
     
     # Print summary
     summary = existing_data['summary_statistics']
